@@ -38,7 +38,7 @@ if convertnum != nil {
  
 如果转换成功，b常量可以在if语句中的第一个分支中使用。它已经被可选类型包含的值初始化过，所以不需要再使用!后缀来获取它的值。
 
-###隐式解析可选类型
+### 隐式解析可选类型
 ```
 var num = "123"
 var convertnum:Int! = num.toInt()
@@ -48,3 +48,11 @@ if convertnum != nil {
 ```
 把想要用作可选类型的后面的？改成感叹号来声明一个隐式解析可选类型。
 
+### 断言
+断言会在运行时判断一个逻辑条件是否为true。
+
+```
+let age = -3
+assert(age >= 0,"A person age cannot be less than zero")
+```
+在这个例子中，只有age 》=0为true时，即age的值不为负的时候，代码才会继续招待。如果为负，断言被触发，终止应用。

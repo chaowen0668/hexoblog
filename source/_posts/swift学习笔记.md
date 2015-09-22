@@ -136,3 +136,57 @@ let message = "\(multiplier) times 2.5 is \(Double(multiplier) * 2.5)"
 ## 字符串索引 ##
 ## 插入和删除 ##
 ## 比较字符串 ##
+
+# 集合 #
+Swift语言提供Arrays,Sets和Dictionaries三种基本集合类型来存储集合数据。数组是有序数据的，集合是无序无重复数据的，字典是无序的键值对的集合。
+
+## 数组 ##
+数据使用有序列表存储同一类型的多个值。
+### 创建一个空数据 ###
+```
+var somelnts = [Int]()
+println("\(somelnts.count)items")
+```
+
+### 创建一个带有默认值的数组 ###
+
+```
+var threeDoubles = [Double](count: 3, repeatedValue: 1.0)
+println(threeDoubles)
+```
+### 字面量创建数组 ###
+```
+var shoppingList: [String] = ["Eggs","Milk"]
+```
+### 数组的遍历 ###
+```
+for item in shoppingList{
+   print(item)
+}
+```
+## 集合  ##
+集合(Set)用来存储相同类型并且没有确定顺序的值。
+
+### 创建和构造一个空的集合 ###
+```
+var letters = Set<Character>()print("letters is of type Set<Character> with \(letters.count) items.") 
+// 打印 "letters is of type Set<Character> with 0 items."
+```
+### 用数组字面量创建集合 ###
+```
+var favoriteGenres: Set<String> = ["Rock", "Classical", "Hip hop"] 
+// favoriteGenres 被构造成含有三个初始值的集合
+```
+## 字典 ##
+### 创建一个空字典 ###
+```
+var namesOfIntegers = [Int: String]()// namesOfIntegers 是一个空的 [Int: String] 字典
+```
+
+```
+namesOfIntegers[16] = "sixteen"// namesOfIntegers 现在包含一个键值对 namesOfIntegers = [:]// namesOfIntegers 又成为了一个 [Int: String] 类型的空字典
+```
+### 用字典字面量创建字典 ###
+```
+var airports: [String: String] = ["YYZ": "Toronto Pearson", "DUB": "Dublin"]
+```

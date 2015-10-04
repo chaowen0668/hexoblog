@@ -7,9 +7,10 @@ categories: android
 # UI技巧 #
 Drawable 着色的后向兼容方案
 http://www.race604.com/tint-drawable/ 
-
+[UI实时预览最佳实践](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.9/ui/ui.md)
 
 # Android studio教程 #
 配置出“NB”的Android Studio 
 http://blog.csdn.net/yy1300326388/article/details/46374229
+
 

@@ -190,3 +190,78 @@ namesOfIntegers[16] = "sixteen"// namesOfIntegers 现在包含一个键值对 n
 ```
 var airports: [String: String] = ["YYZ": "Toronto Pearson", "DUB": "Dublin"]
 ```
+
+## 函数 ##
+
+### 函数的定义与调用 ###
+在下面的例子中函数叫sayHello,定义了一个输入参数叫personName的String值，和一个String类型的返回值。
+
+
+```
+func sayHello(personName:String) ->String{
+   let greeting = "Hello" + personName
+    return greeting
+}
+```
+以func作为前缀，指定函数的返回类型时，用返回箭头->后跟返回类型的名称来表示。
+
+## 函数参数与返回值 ##
+### 多重输入参数 ###
+函数可以有多个输入参数，写在圆括号中
+
+```
+func halfOpenRangeLenght(start:Int,end:Int)->Int{
+    return end-start
+}
+```
+
+### 无参函数 ###
+```
+func sayHelloWorld()->String{
+  return "Hello"
+}
+```
+
+### 多参量函数 ###
+
+```
+func sayHello(personName:String)->String{
+  return "Hello"+personName
+}
+
+func sayHello(personName:String,alreadyGreeted:Bool)->String{
+    if alreadyGreeted{
+       return sayHello(personName)
+    }else{
+      return sayHello(personName)
+    }
+}
+```
+
+### 无返回值函数 ###
+```
+func sayGoodbye(personName:String){
+    println("GoodBye")
+}
+```
+
+### 多重返回值函数 ###
+```
+func minMax(array:[Int])->(min:Int,max:Int){
+   var currentMin = array[0]
+    var currentMax = array[0]
+    for value in array[1..<array.count]{
+        if value < currentMin {
+            currentMin = value
+        }else if value > currentMax {
+            currentMax = value
+        }
+      
+    }
+    
+    return (currentMin,currentMax)
+}
+
+let bounds = minMax([8,2,3,79])
+println("min is \(bounds.min) and max is \(bounds.max)")
+```

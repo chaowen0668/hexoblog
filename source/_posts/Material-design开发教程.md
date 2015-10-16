@@ -5,7 +5,7 @@ categories: android
 
 ---
 本课程学习使用Material Design开发
-
+<!--more-->
 # 使用Android studio创建一个Material Design项目 #
 Material Design的效果是Android5.0 Lollipop才有的效果，要兼容到5.0以下的Android，需要使用AppCompatv21的开发包。本文将演示如何创建一个Material Design的应用。
 

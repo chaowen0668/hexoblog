@@ -43,3 +43,7 @@ rg.clearCheck();//清除选中状态的
 [双管齐下：同时设计 iOS 和 Android](http://www.shejipai.cn/ios-android-compare-ui.html)
 
 
+# 书 #
+[程序员的自我修养](https://www.gitbook.com/book/leohxj/a-programmer-prepares/details?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+

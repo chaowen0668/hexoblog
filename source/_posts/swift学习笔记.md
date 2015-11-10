@@ -265,15 +265,15 @@ func minMax(array:[Int])->(min:Int,max:Int){
 let bounds = minMax([8,2,3,79])
 println("min is \(bounds.min) and max is \(bounds.max)")
 ```
-## 闭包  ##
+# 闭包  #
 
 函数介绍的全局和嵌套函数实际上也是特殊的闭包,闭包采取如下三种形式之一:
 * 全局函数是一个有名字但不会捕获任何值的闭包* 嵌套函数是一个有名字并可以捕获其封闭函数域内值的闭包* 闭包表达式是一个利用轻量级语法所写的可以捕获其上下文中变量或常量值的匿名闭包
 
 其实闭包就是函数的简写形式。
 
-## 枚举 ##
-### 枚举语法 ###
+# 枚举 #
+## 枚举语法 ##
 使用enum关键字来创建枚举并且把它们的整个定义放在一对大括号内:
 
 ```
@@ -289,7 +289,7 @@ enum CompassPoint {
 ```
 enum Planet {case Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune}
 ```
-### 匹配枚举值和 Switch 语句 ###
+## 匹配枚举值和 Switch 语句 ##
 ```
 var direction = CompassPoint.East
 switch direction{
@@ -303,3 +303,4 @@ switch direction{
     println("default")
 }
 ```
+

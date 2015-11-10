@@ -46,4 +46,7 @@ rg.clearCheck();//清除选中状态的
 # 书 #
 [程序员的自我修养](https://www.gitbook.com/book/leohxj/a-programmer-prepares/details?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+# 原理 #
+[公共技术点之 View 绘制流程](http://www.codekk.com/blogs/detail/54cfab086c4761e5001b253f)
+
 

@@ -22,6 +22,8 @@ rg.clearCheck();//清除选中状态的
 # 代码优化 #
 [ 利用 Android Annotations 来玩玩契约编程](http://blog.csdn.net/feelang/article/details/49000203)
 [怎样用 Android Annotations 写出高性能代码](http://blog.csdn.net/feelang/article/details/49095235)
+[安卓App热补丁动态修复技术介绍](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=0&uin=MTYzMjY2MTE1&key=04dce534b3b035ef49d8b47c3f8dc1399d737e94c7a40b1a38561c6fcf48d000a1f40ec4bf530d2534dd865875c0c8c7&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&lang=en&pass_ticket=1zsiC5hQfwATA4R3ndq32UtcvN%2B5kATcavEv4xN2HMY%3D)
+
 
 # Android studio教程 #
 [配置出“NB”的Android Studio](http://blog.csdn.net/yy1300326388/article/details/46374229) 
@@ -37,6 +39,7 @@ rg.clearCheck();//清除选中状态的
 
 # 开源项目 #
 [开源选型之 Android 三大图片缓存原理、特性对比](http://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=400055274&idx=1&sn=89005ccb6b4317675c54ccf61cdb89b5#rd)
+[Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949)
 
 # 设计师 #
 [APP界面切图命名和文件整理规范](http://www.shejipai.cn/map-file-naming-and-specification.html)

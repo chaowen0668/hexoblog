@@ -10,6 +10,7 @@ categories: android
 [Tinting drawables](http://andraskindler.com/blog/2015/tinting_drawables/?utm_source=androiddevdigest)
 [Android 高清加载巨图方案 拒绝压缩图片](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1021/3607.html)
 [Android ToolBar 的简单封装](http://blog.csdn.net/jxxfzgy/article/details/46476903)
+[Android中Canvas绘图基础详解](http://blog.csdn.net/iispring/article/details/49770651)
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码
@@ -23,7 +24,7 @@ rg.clearCheck();//清除选中状态的
 [ 利用 Android Annotations 来玩玩契约编程](http://blog.csdn.net/feelang/article/details/49000203)
 [怎样用 Android Annotations 写出高性能代码](http://blog.csdn.net/feelang/article/details/49095235)
 [安卓App热补丁动态修复技术介绍](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=0&uin=MTYzMjY2MTE1&key=04dce534b3b035ef49d8b47c3f8dc1399d737e94c7a40b1a38561c6fcf48d000a1f40ec4bf530d2534dd865875c0c8c7&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&lang=en&pass_ticket=1zsiC5hQfwATA4R3ndq32UtcvN%2B5kATcavEv4xN2HMY%3D)
-
+[Android中如何提取和生成mp4文件](http://ticktick.blog.51cto.com/823160/1710743)
 
 # Android studio教程 #
 [配置出“NB”的Android Studio](http://blog.csdn.net/yy1300326388/article/details/46374229) 
@@ -40,6 +41,7 @@ rg.clearCheck();//清除选中状态的
 # 开源项目 #
 [开源选型之 Android 三大图片缓存原理、特性对比](http://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=400055274&idx=1&sn=89005ccb6b4317675c54ccf61cdb89b5#rd)
 [Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949)
+[Android实战之你应该使用哪个网络库？](http://segmentfault.com/a/1190000003965158)
 
 # 设计师 #
 [APP界面切图命名和文件整理规范](http://www.shejipai.cn/map-file-naming-and-specification.html)
@@ -51,5 +53,9 @@ rg.clearCheck();//清除选中状态的
 
 # 原理 #
 [公共技术点之 View 绘制流程](http://www.codekk.com/blogs/detail/54cfab086c4761e5001b253f)
+
+# 优化 #
+[给 App 提速：Android 性能优化总结](http://android.jobbole.com/81944/)
+[Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 
 

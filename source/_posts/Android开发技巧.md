@@ -17,6 +17,7 @@ categories: android
 ```
 rg.clearCheck();//清除选中状态的 
 ```
+
 [参考来源](http://stackoverflow.com/questions/4035465/android-radiobutton-not-able-to-unset-using-setcheckedfalse-method)
 
 
@@ -57,5 +58,15 @@ rg.clearCheck();//清除选中状态的
 # 优化 #
 [给 App 提速：Android 性能优化总结](http://android.jobbole.com/81944/)
 [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
+[加速你的Android应用](http://www.devtf.cn/?p=1097)
+[内存泄露从入门到精通三部曲之基础知识篇](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=400674207&idx=1&sn=a9580ca0dffc62a6d7dbb8fd3d7a2ef1&scene=0&key=b410d3164f5f798e3f4b6de393face7f291ae1d5d6ce312646e1e72ba2b6849e52d3ef5d2d0e4e8579cc7841aac8b439&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=hgYTL4MW7%2FI9mnat%2BT9S2RRS0IkFfm6yOLSy%2F4bguL4%3D)
+[关于Android Log的一些思考](http://droidyue.com/blog/2015/11/01/thinking-about-android-log/)
+[Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605)
 
+# 提高 #
+[深入理解Android之AOP](http://blog.csdn.net/innost/article/details/49387395)
+[移动端图片格式调研](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)
+
+# 新特性 #
+[Android M新特性Doze and App Standby模式详解](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400185947&idx=1&sn=a591b76d2c9a085791fd4f12a5b31738&scene=2&srcid=11067beUUcVUcBRI1ajZZ2p7&from=timeline&isappinstalled=0&key=b410d3164f5f798e6f3fbdb81070f8443873c0d4632acc14a6513981556fa35169ba650e853f94945b244528cbd58799&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=hgYTL4MW7%2FI9mnat%2BT9S2RRS0IkFfm6yOLSy%2F4bguL4%3D)
 

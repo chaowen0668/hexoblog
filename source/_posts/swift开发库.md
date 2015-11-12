@@ -28,6 +28,8 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [JSPatch库](https://github.com/bang590/JSPatch) |一个Apple官方支持的实现在线更新iOS应用的库 | js |https://github.com/bang590/JSPatch
 
+## 开源项目
+[优秀的番茄钟(开源)](https://github.com/megabitsenmzq/PomoNow-iOS)
 
 ## 开发网站 ##
 [swiftcafe](http://swiftcafe.io/)

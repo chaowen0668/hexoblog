@@ -7,10 +7,23 @@ categories: swift
 收集swift开源项目的大全
 <!--more-->
 
+### 文本
+| Title | Description |
+| :----------: | :--------: |
+[YYText](https://github.com/ibireme/YYText) | iOS 富文本控件
+[pinyin](https://github.com/hotoo/pinyin) | 汉字拼音转换工具
+  
+
+
+### 动画 
+[Splitflap 可用于快速给 iOS 应用创建文字翻转的动画效果 ](https://github.com/yannickl/Splitflap)  
+
 ### 网络:net 
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[JSONNeverDie](https://github.com/johnlui/JSONNeverDie) | JSON/Model自动映射Swift库JSONNeverDie  | Java |https://github.com/johnlui/JSONNeverDie
+| Title | Description |
+| :----------: | :--------: |
+[JSONNeverDie](https://github.com/johnlui/JSONNeverDie) | JSON/Model自动映射Swift库JSONNeverDie
+[Unbox](https://github.com/JohnSundell/Unbox) | The easy to use Swift JSON decoder
+
 
 ### webview
 App Name                   | Describe                  | Major Language             | Download 
@@ -29,7 +42,10 @@ App Name                   | Describe                  | Major Language         
 [JSPatch库](https://github.com/bang590/JSPatch) |一个Apple官方支持的实现在线更新iOS应用的库 | js |https://github.com/bang590/JSPatch
 
 ## 开源项目
-[优秀的番茄钟(开源)](https://github.com/megabitsenmzq/PomoNow-iOS)
+| Title | Description |
+| :----------: | :--------: |
+[优秀的番茄钟(开源)](https://github.com/megabitsenmzq/PomoNow-iOS) | 优秀的番茄钟
+[CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus) | swift2.0编写的CocoaChina客户端
 
 ## 开发网站 ##
 [swiftcafe](http://swiftcafe.io/)

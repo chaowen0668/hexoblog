@@ -14,7 +14,7 @@ categories: android
 [关于使用 CardView 开发过程中要注意的细节](http://blog.feng.moe/2015/10/24/something-about-cardview-development/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [实践自定UI](http://www.jianshu.com/p/11210b14f743)
 [实践自定义UI2](http://www.jianshu.com/p/ff8dcefce371)
-
+[自定义View的onMeasure、onLayout](http://yifeiyuan.me/2015/10/12/%E8%87%AA%E5%AE%9A%E4%B9%89View%E7%9A%84onMeasure%E3%80%81onLayout/)
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码
@@ -29,6 +29,7 @@ rg.clearCheck();//清除选中状态的
 [ 利用 Android Annotations 来玩玩契约编程](http://blog.csdn.net/feelang/article/details/49000203)
 [怎样用 Android Annotations 写出高性能代码](http://blog.csdn.net/feelang/article/details/49095235)
 [安卓App热补丁动态修复技术介绍](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=0&uin=MTYzMjY2MTE1&key=04dce534b3b035ef49d8b47c3f8dc1399d737e94c7a40b1a38561c6fcf48d000a1f40ec4bf530d2534dd865875c0c8c7&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&lang=en&pass_ticket=1zsiC5hQfwATA4R3ndq32UtcvN%2B5kATcavEv4xN2HMY%3D)
+
 [Android中如何提取和生成mp4文件](http://ticktick.blog.51cto.com/823160/1710743)
 [ Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
 

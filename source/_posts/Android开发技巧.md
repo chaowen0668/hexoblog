@@ -15,6 +15,8 @@ categories: android
 [实践自定UI](http://www.jianshu.com/p/11210b14f743)
 [实践自定义UI2](http://www.jianshu.com/p/ff8dcefce371)
 [自定义View的onMeasure、onLayout](http://yifeiyuan.me/2015/10/12/%E8%87%AA%E5%AE%9A%E4%B9%89View%E7%9A%84onMeasure%E3%80%81onLayout/)
+[Android快捷方式解密](http://www.jianshu.com/p/dc3d04337d00)
+[ViewPager不为人知的秘密](http://www.jianshu.com/p/80891d0185f7)
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码
@@ -32,12 +34,14 @@ rg.clearCheck();//清除选中状态的
 
 [Android中如何提取和生成mp4文件](http://ticktick.blog.51cto.com/823160/1710743)
 [ Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
+[Android App 线上热修复方案](http://mp.weixin.qq.com/s?__biz=MzA3Mjk1MjA4Nw==&mid=400390453&idx=1&sn=ad5e93193f46ba1bdccafda26508d702#rd)
 
 # Android studio教程 #
 [配置出“NB”的Android Studio](http://blog.csdn.net/yy1300326388/article/details/46374229) 
 
 # RxJava 教程 #
 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083#toc_1) 
+[RxJava学习资源](https://github.com/lzyzsd/Awesome-RxJava)
 
 # Handler #
 [Android Handler消息机制的理解](http://anany.me/2015/04/12/handler/)
@@ -70,6 +74,7 @@ rg.clearCheck();//清除选中状态的
 [内存泄露从入门到精通三部曲之基础知识篇](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=400674207&idx=1&sn=a9580ca0dffc62a6d7dbb8fd3d7a2ef1&scene=0&key=b410d3164f5f798e3f4b6de393face7f291ae1d5d6ce312646e1e72ba2b6849e52d3ef5d2d0e4e8579cc7841aac8b439&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=hgYTL4MW7%2FI9mnat%2BT9S2RRS0IkFfm6yOLSy%2F4bguL4%3D)
 [关于Android Log的一些思考](http://droidyue.com/blog/2015/11/01/thinking-about-android-log/)
 [Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605)
+[内存泄露从入门到精通三部曲之排查方法篇](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=400891536&idx=1&sn=0b6c629b0abe4a359d6552cd244c0c0c&scene=0&key=d4b25ade3662d6432f4d008c35c73be9edb35e268795decfd642e018f5b9b57ccf844430313ae8cae1936ae1af28f657&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=DhP26XYXJwz4Wb0cgRmjgcxeGfVbtRncCyGulGN45GY%3D)
 
 # 提高 #
 [深入理解Android之AOP](http://blog.csdn.net/innost/article/details/49387395)
@@ -81,6 +86,7 @@ rg.clearCheck();//清除选中状态的
 
 # 架构 #
 [微信为啥这么省流量（技术宅入）](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=400163013&idx=1&sn=911cf71925e2ba50d47955a713134acb&scene=2&srcid=1024VUjDjr5hy3hpqvaZ72D3&from=timeline&isappinstalled=0#rd)
+[Android 项目重构之路：界面篇](http://android.jobbole.com/82080/)
 
 
 # 适配 #
@@ -89,3 +95,15 @@ rg.clearCheck();//清除选中状态的
 
 # 博客 #
 [leanote](http://leoray.leanote.com/)
+
+# 官方学习网站/Wiki #
+[Android Developer](http://developer.android.com/)
+[Android Developer(无需梯子)](http://androiddoc.qiniudn.com/index.html)
+[Android Training 中文版](http://hukai.me/android-training-course-in-chinese/index.html)
+[Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
+[值得阅读的android技术文章 ](https://github.com/bboyfeiyu/Worth-Reading-the-Android-technical-articles)
+[整理一些比较好的Android开发教程 ](http://bxbxbai.github.io/2014/10/07/android-develop-resource/)
+
+# 面试题 #
+[很详细的Android工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
+

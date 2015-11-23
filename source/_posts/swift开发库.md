@@ -13,6 +13,16 @@ categories: swift
 [YYText](https://github.com/ibireme/YYText) | iOS 富文本控件
 [pinyin](https://github.com/hotoo/pinyin) | 汉字拼音转换工具
   
+### 图片
+| Title | Description |
+| :----------: | :--------: |
+[ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) | 摄像头视图控制器
+
+  
+### 控件
+| Title | Description |
+| :----------: | :--------: |
+[SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) | 可扩展的 Collection Views
 
 
 ### 动画 

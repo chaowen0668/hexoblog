@@ -42,7 +42,8 @@ rg.clearCheck();//清除选中状态的
 # RxJava 教程 #
 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083#toc_1) 
 [RxJava学习资源](https://github.com/lzyzsd/Awesome-RxJava)
-
+[用 RxJava 实现 EventBus ](https://github.com/mcxiaoke/xBus)
+[用 RxJava 实现 BroadcastReceiver](https://github.com/f2prateek/rx-receivers)
 # Handler #
 [Android Handler消息机制的理解](http://anany.me/2015/04/12/handler/)
 

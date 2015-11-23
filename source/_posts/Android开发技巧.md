@@ -95,6 +95,7 @@ rg.clearCheck();//清除选中状态的
 # 适配 #
 [安卓分辨率的相关知识](http://leoray.leanote.com/post/android-resolution)
 [安卓资源及适配的一些问题](http://leoray.leanote.com/post/android-resource)
+[AndroidAutoLayout：Android 屏幕适配方案](https://github.com/hongyangAndroid/AndroidAutoLayout?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 # 博客 #
 [leanote](http://leoray.leanote.com/)

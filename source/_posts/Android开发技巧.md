@@ -17,6 +17,7 @@ categories: android
 [自定义View的onMeasure、onLayout](http://yifeiyuan.me/2015/10/12/%E8%87%AA%E5%AE%9A%E4%B9%89View%E7%9A%84onMeasure%E3%80%81onLayout/)
 [Android快捷方式解密](http://www.jianshu.com/p/dc3d04337d00)
 [ViewPager不为人知的秘密](http://www.jianshu.com/p/80891d0185f7)
+[Android Support Library 兼容库概念性介绍](http://zhuanlan.zhihu.com/zmywly8866/20260335)
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码
@@ -55,6 +56,7 @@ rg.clearCheck();//清除选中状态的
 [Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949)
 [Android实战之你应该使用哪个网络库？](http://segmentfault.com/a/1190000003965158)
 [okHttp，GreenDao，EventBus简单封装使用](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1111/3678.html)
+[Retrofit 入门教程](https://futurestud.io/blog/retrofit-getting-started-and-android-client/)
 
 # 设计师 #
 [APP界面切图命名和文件整理规范](http://www.shejipai.cn/map-file-naming-and-specification.html)
@@ -107,4 +109,5 @@ rg.clearCheck();//清除选中状态的
 
 # 面试题 #
 [很详细的Android工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
+[Android 面试常见问题](https://github.com/leerduo/InterviewQuestion)
 

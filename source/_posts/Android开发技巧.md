@@ -18,6 +18,9 @@ categories: android
 [Android快捷方式解密](http://www.jianshu.com/p/dc3d04337d00)
 [ViewPager不为人知的秘密](http://www.jianshu.com/p/80891d0185f7)
 [Android Support Library 兼容库概念性介绍](http://zhuanlan.zhihu.com/zmywly8866/20260335)
+[RecyclerView添加Header的正确方式](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1120/3705.html)
+
+
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码
@@ -47,6 +50,8 @@ rg.clearCheck();//清除选中状态的
 [用 RxJava 实现 BroadcastReceiver](https://github.com/f2prateek/rx-receivers)
 # Handler #
 [Android Handler消息机制的理解](http://anany.me/2015/04/12/handler/)
+[Rxlifecycle使用详解，解决RxJava内存泄露问题](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1122/3711.html)
+[Getting Started With ReactiveX on Android](http://code.tutsplus.com/tutorials/getting-started-with-reactivex-on-android--cms-24387)
 
 # Adapter #
 [Adapter优化方案的探索](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.10/adapter/adapter.md)
@@ -57,6 +62,7 @@ rg.clearCheck();//清除选中状态的
 [Android实战之你应该使用哪个网络库？](http://segmentfault.com/a/1190000003965158)
 [okHttp，GreenDao，EventBus简单封装使用](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1111/3678.html)
 [Retrofit 入门教程](https://futurestud.io/blog/retrofit-getting-started-and-android-client/)
+[好用的网络请求库Retrofit2（入门及讲解）](http://blog.csdn.net/biezhihua/article/details/49232289)
 
 # 设计师 #
 [APP界面切图命名和文件整理规范](http://www.shejipai.cn/map-file-naming-and-specification.html)
@@ -78,6 +84,8 @@ rg.clearCheck();//清除选中状态的
 [关于Android Log的一些思考](http://droidyue.com/blog/2015/11/01/thinking-about-android-log/)
 [Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605)
 [内存泄露从入门到精通三部曲之排查方法篇](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=400891536&idx=1&sn=0b6c629b0abe4a359d6552cd244c0c0c&scene=0&key=d4b25ade3662d6432f4d008c35c73be9edb35e268795decfd642e018f5b9b57ccf844430313ae8cae1936ae1af28f657&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=DhP26XYXJwz4Wb0cgRmjgcxeGfVbtRncCyGulGN45GY%3D)
+[10 条提升 Android 性能的建议](https://realm.io/cn/news/droidcon-farber-improving-android-app-performance/)
+[Android应用启动优化:一种DelayLoad的实现和原理](http://androidperformance.com/2015/11/18/Android-app-lunch-optimize-delay-load.html)
 
 # 提高 #
 [深入理解Android之AOP](http://blog.csdn.net/innost/article/details/49387395)
@@ -107,6 +115,7 @@ rg.clearCheck();//清除选中状态的
 [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 [值得阅读的android技术文章 ](https://github.com/bboyfeiyu/Worth-Reading-the-Android-technical-articles)
 [整理一些比较好的Android开发教程 ](http://bxbxbai.github.io/2014/10/07/android-develop-resource/)
+[2015年最新Android基础入门教程目录(完结版)](http://blog.csdn.net/coder_pig/article/details/50000773#t8)
 
 # 面试题 #
 [很详细的Android工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)

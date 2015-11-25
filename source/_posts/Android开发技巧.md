@@ -48,10 +48,12 @@ rg.clearCheck();//清除选中状态的
 [RxJava学习资源](https://github.com/lzyzsd/Awesome-RxJava)
 [用 RxJava 实现 EventBus ](https://github.com/mcxiaoke/xBus)
 [用 RxJava 实现 BroadcastReceiver](https://github.com/f2prateek/rx-receivers)
-# Handler #
-[Android Handler消息机制的理解](http://anany.me/2015/04/12/handler/)
 [Rxlifecycle使用详解，解决RxJava内存泄露问题](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1122/3711.html)
 [Getting Started With ReactiveX on Android](http://code.tutsplus.com/tutorials/getting-started-with-reactivex-on-android--cms-24387)
+
+# Handler #
+[Android Handler消息机制的理解](http://anany.me/2015/04/12/handler/)
+
 
 # Adapter #
 [Adapter优化方案的探索](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.10/adapter/adapter.md)
@@ -84,8 +86,10 @@ rg.clearCheck();//清除选中状态的
 [关于Android Log的一些思考](http://droidyue.com/blog/2015/11/01/thinking-about-android-log/)
 [Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605)
 [内存泄露从入门到精通三部曲之排查方法篇](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=400891536&idx=1&sn=0b6c629b0abe4a359d6552cd244c0c0c&scene=0&key=d4b25ade3662d6432f4d008c35c73be9edb35e268795decfd642e018f5b9b57ccf844430313ae8cae1936ae1af28f657&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=DhP26XYXJwz4Wb0cgRmjgcxeGfVbtRncCyGulGN45GY%3D)
+[内存泄露从入门到精通三部曲之常见原因与用户实践](http://bugly.qq.com/blog/?p=884)
 [10 条提升 Android 性能的建议](https://realm.io/cn/news/droidcon-farber-improving-android-app-performance/)
 [Android应用启动优化:一种DelayLoad的实现和原理](http://androidperformance.com/2015/11/18/Android-app-lunch-optimize-delay-load.html)
+[Android性能调优利器StrictMode](http://www.kuqin.com/shuoit/20150928/348295.html)
 
 # 提高 #
 [深入理解Android之AOP](http://blog.csdn.net/innost/article/details/49387395)
@@ -98,6 +102,7 @@ rg.clearCheck();//清除选中状态的
 # 架构 #
 [微信为啥这么省流量（技术宅入）](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=400163013&idx=1&sn=911cf71925e2ba50d47955a713134acb&scene=2&srcid=1024VUjDjr5hy3hpqvaZ72D3&from=timeline&isappinstalled=0#rd)
 [Android 项目重构之路：界面篇](http://android.jobbole.com/82080/)
+[各大热补丁方案分析和比较](http://blog.zhaiyifan.cn/2015/11/20/HotPatchCompare/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 
 # 适配 #

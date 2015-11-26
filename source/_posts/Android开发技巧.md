@@ -77,6 +77,7 @@ rg.clearCheck();//清除选中状态的
 # 原理 #
 [公共技术点之 View 绘制流程](http://www.codekk.com/blogs/detail/54cfab086c4761e5001b253f)
 [Android热更新实现原理](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1115/3684.html)
+[Android源码分析-全面理解Context](http://www.cnblogs.com/android100/p/Android-Context.html)
 
 # 优化 #
 [给 App 提速：Android 性能优化总结](http://android.jobbole.com/81944/)

@@ -19,8 +19,8 @@ categories: android
 [ViewPager不为人知的秘密](http://www.jianshu.com/p/80891d0185f7)
 [Android Support Library 兼容库概念性介绍](http://zhuanlan.zhihu.com/zmywly8866/20260335)
 [RecyclerView添加Header的正确方式](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1120/3705.html)
-
-
+[Android布局优化之ViewStub、include、merge使用与源码分析](http://blog.csdn.net/bboyfeiyu/article/details/45869393#0-tsina-1-42567-397232819ff9a47a7b7e80a40613cfe1)
+[腾讯Bugly干货分享：Android机型适配之痛](http://www.csdn.net/article/2015-09-08/2825645/1)
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码
@@ -104,7 +104,7 @@ rg.clearCheck();//清除选中状态的
 [微信为啥这么省流量（技术宅入）](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=400163013&idx=1&sn=911cf71925e2ba50d47955a713134acb&scene=2&srcid=1024VUjDjr5hy3hpqvaZ72D3&from=timeline&isappinstalled=0#rd)
 [Android 项目重构之路：界面篇](http://android.jobbole.com/82080/)
 [各大热补丁方案分析和比较](http://blog.zhaiyifan.cn/2015/11/20/HotPatchCompare/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-
+[用MVP架构开发Android应用](http://kymjs.com/code/2015/11/09/01/)
 
 # 适配 #
 [安卓分辨率的相关知识](http://leoray.leanote.com/post/android-resolution)

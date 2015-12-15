@@ -39,6 +39,7 @@ rg.clearCheck();//清除选中状态的
 [Android中如何提取和生成mp4文件](http://ticktick.blog.51cto.com/823160/1710743)
 [ Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
 [Android App 线上热修复方案](http://mp.weixin.qq.com/s?__biz=MzA3Mjk1MjA4Nw==&mid=400390453&idx=1&sn=ad5e93193f46ba1bdccafda26508d702#rd)
+[解决 singleTask onActivityResult() 无效的问题](http://mthli.github.io/singleTask-onActivityResult/)
 
 # Android studio教程 #
 [配置出“NB”的Android Studio](http://blog.csdn.net/yy1300326388/article/details/46374229) 
@@ -91,6 +92,7 @@ rg.clearCheck();//清除选中状态的
 [10 条提升 Android 性能的建议](https://realm.io/cn/news/droidcon-farber-improving-android-app-performance/)
 [Android应用启动优化:一种DelayLoad的实现和原理](http://androidperformance.com/2015/11/18/Android-app-lunch-optimize-delay-load.html)
 [Android性能调优利器StrictMode](http://www.kuqin.com/shuoit/20150928/348295.html)
+[Android性能优化之被忽视的优化点](http://android.jobbole.com/82182/)
 
 # 提高 #
 [深入理解Android之AOP](http://blog.csdn.net/innost/article/details/49387395)

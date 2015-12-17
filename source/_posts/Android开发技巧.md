@@ -79,6 +79,8 @@ rg.clearCheck();//清除选中状态的
 [公共技术点之 View 绘制流程](http://www.codekk.com/blogs/detail/54cfab086c4761e5001b253f)
 [Android热更新实现原理](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1115/3684.html)
 [Android源码分析-全面理解Context](http://www.cnblogs.com/android100/p/Android-Context.html)
+[Android杂谈--Activity、Window、View的关系](http://www.cnblogs.com/loulijun/archive/2012/02/09/2344681.html)
+
 
 # 优化 #
 [给 App 提速：Android 性能优化总结](http://android.jobbole.com/81944/)
@@ -93,6 +95,9 @@ rg.clearCheck();//清除选中状态的
 [Android应用启动优化:一种DelayLoad的实现和原理](http://androidperformance.com/2015/11/18/Android-app-lunch-optimize-delay-load.html)
 [Android性能调优利器StrictMode](http://www.kuqin.com/shuoit/20150928/348295.html)
 [Android性能优化之被忽视的优化点](http://android.jobbole.com/82182/)
+[Android性能优化之如何避免Overdraw](http://www.jianshu.com/p/145fc61011cd)
+[Android 中 SQLite 性能优化](http://droidyue.com/blog/2015/12/13/android-sqlite-tuning/)
+[手机淘宝性能优化](http://yq.aliyun.com/articles/53?&utm_campaign=sys&utm_medium=market&utm_source=edm_email&msctype=email&mscmsgid=108015121700582161&)
 
 # 提高 #
 [深入理解Android之AOP](http://blog.csdn.net/innost/article/details/49387395)
@@ -107,6 +112,8 @@ rg.clearCheck();//清除选中状态的
 [Android 项目重构之路：界面篇](http://android.jobbole.com/82080/)
 [各大热补丁方案分析和比较](http://blog.zhaiyifan.cn/2015/11/20/HotPatchCompare/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [用MVP架构开发Android应用](http://kymjs.com/code/2015/11/09/01/)
+[Android应用架构](http://www.jianshu.com/p/8ca27934c6e6)
+[说说Android的MVP模式](http://toughcoder.net/blog/2015/11/29/understanding-android-mvp-pattern/)
 
 # 适配 #
 [安卓分辨率的相关知识](http://leoray.leanote.com/post/android-resolution)
@@ -128,4 +135,12 @@ rg.clearCheck();//清除选中状态的
 # 面试题 #
 [很详细的Android工程师面试题大全](http://blog.csdn.net/mc_hust/article/details/49517915)
 [Android 面试常见问题](https://github.com/leerduo/InterviewQuestion)
+[衡量android开发者水平的面试问题](http://blog.csdn.net/lpjishu/article/details/50316919)
+[Activity LaunchMode 应用场景](http://xiazdong.me/2015/03/08/android-launchmode-application/)
+[Activity的LaunchMode应用场景思考](http://blog.csdn.net/xiaodongrush/article/details/28597855)
+[Android 编程下 Touch 事件的分发和消费机制](Android 编程下 Touch 事件的分发和消费机制)
+
+
+# 开发工具 #
+[日常使用 Git 的 19 个建议](http://blog.jobbole.com/96088/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 

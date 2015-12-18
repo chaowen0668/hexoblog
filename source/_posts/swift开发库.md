@@ -7,6 +7,13 @@ categories: swift
 收集swift开源项目的大全
 <!--more-->
 
+### 表格
+| Title | Description |
+| :----------: | :--------: |
+[iOS-Echarts](https://github.com/Pluto-Y/iOS-Echarts) | iOS 图表 eChart
+
+
+
 ### 文本
 | Title | Description |
 | :----------: | :--------: |
@@ -59,3 +66,4 @@ App Name                   | Describe                  | Major Language         
 
 ## 开发网站 ##
 [swiftcafe](http://swiftcafe.io/)
+[ios学习路线](http://ios.skyfox.org/route.html)

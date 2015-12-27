@@ -22,7 +22,7 @@ categories: android
 [Android布局优化之ViewStub、include、merge使用与源码分析](http://blog.csdn.net/bboyfeiyu/article/details/45869393#0-tsina-1-42567-397232819ff9a47a7b7e80a40613cfe1)
 [腾讯Bugly干货分享：Android机型适配之痛](http://www.csdn.net/article/2015-09-08/2825645/1)
 [如何更新及替换ViewPager中的Fragment](https://segmentfault.com/a/1190000003742057)
-
+[Android中WebView页面交互](http://segmentfault.com/a/1190000004150350)
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码

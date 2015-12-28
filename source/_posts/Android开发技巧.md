@@ -117,6 +117,8 @@ rg.clearCheck();//清除选中状态的
 [用MVP架构开发Android应用](http://kymjs.com/code/2015/11/09/01/)
 [Android应用架构](http://www.jianshu.com/p/8ca27934c6e6)
 [说说Android的MVP模式](http://toughcoder.net/blog/2015/11/29/understanding-android-mvp-pattern/)
+[说说Android的MVP模式](http://toughcoder.net/blog/2015/11/29/understanding-android-mvp-pattern/)
+[几幅图MVC，MVP 和 MVVM框架一下子全明白了！](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
 
 # 适配 #
 [安卓分辨率的相关知识](http://leoray.leanote.com/post/android-resolution)

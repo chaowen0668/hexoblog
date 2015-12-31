@@ -23,6 +23,8 @@ categories: android
 [腾讯Bugly干货分享：Android机型适配之痛](http://www.csdn.net/article/2015-09-08/2825645/1)
 [如何更新及替换ViewPager中的Fragment](https://segmentfault.com/a/1190000003742057)
 [Android中WebView页面交互](http://segmentfault.com/a/1190000004150350)
+[Android 软键盘和emoji表情切换方案，和微信几乎一样的体验](Android 软键盘和emoji表情切换方案，和微信几乎一样的体验)
+
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码
@@ -53,6 +55,7 @@ rg.clearCheck();//清除选中状态的
 [用 RxJava 实现 BroadcastReceiver](https://github.com/f2prateek/rx-receivers)
 [Rxlifecycle使用详解，解决RxJava内存泄露问题](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1122/3711.html)
 [Getting Started With ReactiveX on Android](http://code.tutsplus.com/tutorials/getting-started-with-reactivex-on-android--cms-24387)
+[ 可能是东半球最全的RxJava使用场景小结](http://blog.csdn.net/theone10211024/article/details/50435325)
 
 # Handler #
 [Android Handler消息机制的理解](http://anany.me/2015/04/12/handler/)
@@ -68,6 +71,7 @@ rg.clearCheck();//清除选中状态的
 [okHttp，GreenDao，EventBus简单封装使用](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1111/3678.html)
 [Retrofit 入门教程](https://futurestud.io/blog/retrofit-getting-started-and-android-client/)
 [好用的网络请求库Retrofit2（入门及讲解）](http://blog.csdn.net/biezhihua/article/details/49232289)
+[安卓下拉刷新开源库对比](https://github.com/desmond1121/Android-Ptr-Comparison/blob/master/README.md)
 
 # 设计师 #
 [APP界面切图命名和文件整理规范](http://www.shejipai.cn/map-file-naming-and-specification.html)
@@ -150,3 +154,4 @@ rg.clearCheck();//清除选中状态的
 [日常使用 Git 的 19 个建议](http://blog.jobbole.com/96088/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [Android Studio你不知道的调试技巧](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/)
 [Android单元测试研究与实践](http://tech.meituan.com/Android_unit_test.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[闯过这 54 关，点亮你的 Git 技能树](http://www.codingstyle.cn/topics/51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)

@@ -63,6 +63,7 @@ App Name                   | Describe                  | Major Language         
 | :----------: | :--------: |
 [优秀的番茄钟(开源)](https://github.com/megabitsenmzq/PomoNow-iOS) | 优秀的番茄钟
 [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus) | swift2.0编写的CocoaChina客户端
+[GoTao](https://github.com/marknote/GoTao) | 用Swift写围棋App
 
 ## 开发网站 ##
 [swiftcafe](http://swiftcafe.io/)

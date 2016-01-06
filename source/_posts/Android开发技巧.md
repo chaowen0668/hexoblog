@@ -56,6 +56,7 @@ rg.clearCheck();//清除选中状态的
 [Rxlifecycle使用详解，解决RxJava内存泄露问题](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1122/3711.html)
 [Getting Started With ReactiveX on Android](http://code.tutsplus.com/tutorials/getting-started-with-reactivex-on-android--cms-24387)
 [ 可能是东半球最全的RxJava使用场景小结](http://blog.csdn.net/theone10211024/article/details/50435325)
+[RxJava Essentials 一书的中文翻译版](https://www.gitbook.com/book/yuxingxin/rxjava-essentials-cn/details?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 # Handler #
 [Android Handler消息机制的理解](http://anany.me/2015/04/12/handler/)
@@ -105,6 +106,7 @@ rg.clearCheck();//清除选中状态的
 [Android 中 SQLite 性能优化](http://droidyue.com/blog/2015/12/13/android-sqlite-tuning/)
 [手机淘宝性能优化](http://yq.aliyun.com/articles/53?&utm_campaign=sys&utm_medium=market&utm_source=edm_email&msctype=email&mscmsgid=108015121700582161&)
 [手淘双十一系列（一） | 521 性能优化项目揭秘](http://yq.aliyun.com/articles/1477?spm=5176.100238.yqhn2.41.TapcjW)
+[Android退出应用最优雅的方式](http://android.jobbole.com/82316/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 # 提高 #
 [深入理解Android之AOP](http://blog.csdn.net/innost/article/details/49387395)
@@ -155,3 +157,6 @@ rg.clearCheck();//清除选中状态的
 [Android Studio你不知道的调试技巧](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/)
 [Android单元测试研究与实践](http://tech.meituan.com/Android_unit_test.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [闯过这 54 关，点亮你的 Git 技能树](http://www.codingstyle.cn/topics/51?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[android studio 64位手机+Fresco引起的在arm64位机器上找不到对应的so库](http://www.cnblogs.com/poe-blog/p/4728970.html)
+[Android Studio上打的包在arm64位机器上找不到对应的so库](http://blog.csdn.net/lihuapinghust/article/details/45825063)
+[Android中使用Espresso进行UI测试](https://www.aswifter.com/2016/01/03/android-use-Espresso-ui-testing/)

@@ -160,3 +160,4 @@ rg.clearCheck();//清除选中状态的
 [android studio 64位手机+Fresco引起的在arm64位机器上找不到对应的so库](http://www.cnblogs.com/poe-blog/p/4728970.html)
 [Android Studio上打的包在arm64位机器上找不到对应的so库](http://blog.csdn.net/lihuapinghust/article/details/45825063)
 [Android中使用Espresso进行UI测试](https://www.aswifter.com/2016/01/03/android-use-Espresso-ui-testing/)
+[Git全解析之用起来先](http://wustrive2008.github.io/2016/01/06/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/Git%E5%85%A8%E8%A7%A3%E6%9E%90%E4%B9%8B%E5%85%88%E7%94%A8%E8%B5%B7%E6%9D%A5/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)

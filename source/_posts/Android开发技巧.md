@@ -87,7 +87,7 @@ rg.clearCheck();//清除选中状态的
 [Android热更新实现原理](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1115/3684.html)
 [Android源码分析-全面理解Context](http://www.cnblogs.com/android100/p/Android-Context.html)
 [Android杂谈--Activity、Window、View的关系](http://www.cnblogs.com/loulijun/archive/2012/02/09/2344681.html)
-
+[Android应用开发Scroller详解及源码浅析](http://blog.csdn.net/yanbober/article/details/49904715)
 
 # 优化 #
 [给 App 提速：Android 性能优化总结](http://android.jobbole.com/81944/)
@@ -111,6 +111,7 @@ rg.clearCheck();//清除选中状态的
 # 提高 #
 [深入理解Android之AOP](http://blog.csdn.net/innost/article/details/49387395)
 [移动端图片格式调研](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)
+[如何选择 compileSdkVersion, minSdkVersion 和 targetSdkVersion](http://chinagdg.org/2016/01/picking-your-compilesdkversion-minsdkversion-targetsdkversion/)
 
 # 新特性 #
 [Android M新特性Doze and App Standby模式详解](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400185947&idx=1&sn=a591b76d2c9a085791fd4f12a5b31738&scene=2&srcid=11067beUUcVUcBRI1ajZZ2p7&from=timeline&isappinstalled=0&key=b410d3164f5f798e6f3fbdb81070f8443873c0d4632acc14a6513981556fa35169ba650e853f94945b244528cbd58799&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=hgYTL4MW7%2FI9mnat%2BT9S2RRS0IkFfm6yOLSy%2F4bguL4%3D)
@@ -161,3 +162,8 @@ rg.clearCheck();//清除选中状态的
 [Android Studio上打的包在arm64位机器上找不到对应的so库](http://blog.csdn.net/lihuapinghust/article/details/45825063)
 [Android中使用Espresso进行UI测试](https://www.aswifter.com/2016/01/03/android-use-Espresso-ui-testing/)
 [Git全解析之用起来先](http://wustrive2008.github.io/2016/01/06/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/Git%E5%85%A8%E8%A7%A3%E6%9E%90%E4%B9%8B%E5%85%88%E7%94%A8%E8%B5%B7%E6%9D%A5/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[Android Studio Gradle实践之多渠道自动化打包+版本号管理](http://unclechen.github.io/2015/10/22/Android%20Studio%20Gradle%E5%AE%9E%E8%B7%B5%E4%B9%8B%E5%A4%9A%E6%B8%A0%E9%81%93%E8%87%AA%E5%8A%A8%E5%8C%96%E6%89%93%E5%8C%85+%E7%89%88%E6%9C%AC%E5%8F%B7%E7%AE%A1%E7%90%86/)
+
+
+# 学习 #
+[Android程序员 如何入门iOS ——故事从这里开始](http://segmentfault.com/a/1190000004268513)

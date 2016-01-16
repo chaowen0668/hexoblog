@@ -57,6 +57,7 @@ rg.clearCheck();//清除选中状态的
 [Getting Started With ReactiveX on Android](http://code.tutsplus.com/tutorials/getting-started-with-reactivex-on-android--cms-24387)
 [ 可能是东半球最全的RxJava使用场景小结](http://blog.csdn.net/theone10211024/article/details/50435325)
 [RxJava Essentials 一书的中文翻译版](https://www.gitbook.com/book/yuxingxin/rxjava-essentials-cn/details?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
 
 # Handler #
 [Android Handler消息机制的理解](http://anany.me/2015/04/12/handler/)
@@ -126,6 +127,7 @@ rg.clearCheck();//清除选中状态的
 [说说Android的MVP模式](http://toughcoder.net/blog/2015/11/29/understanding-android-mvp-pattern/)
 [说说Android的MVP模式](http://toughcoder.net/blog/2015/11/29/understanding-android-mvp-pattern/)
 [几幅图MVC，MVP 和 MVVM框架一下子全明白了！](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
+[饿了么移动APP的架构演进](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90)
 
 # 适配 #
 [安卓分辨率的相关知识](http://leoray.leanote.com/post/android-resolution)

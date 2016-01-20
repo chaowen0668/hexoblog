@@ -58,6 +58,8 @@ rg.clearCheck();//清除选中状态的
 [ 可能是东半球最全的RxJava使用场景小结](http://blog.csdn.net/theone10211024/article/details/50435325)
 [RxJava Essentials 一书的中文翻译版](https://www.gitbook.com/book/yuxingxin/rxjava-essentials-cn/details?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
+[使用RxJava 提升用户体验](http://www.jianshu.com/p/33c548bce571)
+[我们为什么要在Android中使用RxJava](http://blog.csdn.net/jijiaxin1989/article/details/50517068#0-tsina-1-18574-397232819ff9a47a7b7e80a40613cfe1)
 
 # Handler #
 [Android Handler消息机制的理解](http://anany.me/2015/04/12/handler/)
@@ -89,7 +91,7 @@ rg.clearCheck();//清除选中状态的
 [Android源码分析-全面理解Context](http://www.cnblogs.com/android100/p/Android-Context.html)
 [Android杂谈--Activity、Window、View的关系](http://www.cnblogs.com/loulijun/archive/2012/02/09/2344681.html)
 [Android应用开发Scroller详解及源码浅析](http://blog.csdn.net/yanbober/article/details/49904715)
-
+[ Android应用开发之自定义View触摸相关工具类全解](http://blog.csdn.net/yanbober/article/details/50411919)
 # 优化 #
 [给 App 提速：Android 性能优化总结](http://android.jobbole.com/81944/)
 [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
@@ -108,6 +110,9 @@ rg.clearCheck();//清除选中状态的
 [手机淘宝性能优化](http://yq.aliyun.com/articles/53?&utm_campaign=sys&utm_medium=market&utm_source=edm_email&msctype=email&mscmsgid=108015121700582161&)
 [手淘双十一系列（一） | 521 性能优化项目揭秘](http://yq.aliyun.com/articles/1477?spm=5176.100238.yqhn2.41.TapcjW)
 [Android退出应用最优雅的方式](http://android.jobbole.com/82316/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403263974&idx=1&sn=b0315addbc47f3c38e65d9c633a12cd6)
+[BlockCanary — 轻松找出Android App界面卡顿元凶](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/)
+[使用pngquant来缩小你的APK](http://www.jianshu.com/p/a721fbaa62ab)
 
 # 提高 #
 [深入理解Android之AOP](http://blog.csdn.net/innost/article/details/49387395)
@@ -128,6 +133,7 @@ rg.clearCheck();//清除选中状态的
 [说说Android的MVP模式](http://toughcoder.net/blog/2015/11/29/understanding-android-mvp-pattern/)
 [几幅图MVC，MVP 和 MVVM框架一下子全明白了！](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
 [饿了么移动APP的架构演进](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90)
+[Android架构合集](https://github.com/Juude/Awesome-Android-Architecture)
 
 # 适配 #
 [安卓分辨率的相关知识](http://leoray.leanote.com/post/android-resolution)
@@ -169,3 +175,8 @@ rg.clearCheck();//清除选中状态的
 
 # 学习 #
 [Android程序员 如何入门iOS ——故事从这里开始](http://segmentfault.com/a/1190000004268513)
+[Android开发技术周报特刊之React Native](http://www.androidweekly.cn/android-dev-special-weekly-react-native/)
+
+# 数据库 #
+[SQLite 大数据量 新增 / 修改 提升效率的办法](http://my.oschina.net/atearsan/blog/187226?fromerr=qCmwUhvO)
+[使用replace](http://www.cnblogs.com/liping13599168/archive/2011/05/24/2054908.html)

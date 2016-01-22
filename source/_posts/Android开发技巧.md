@@ -113,11 +113,13 @@ rg.clearCheck();//清除选中状态的
 [Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403263974&idx=1&sn=b0315addbc47f3c38e65d9c633a12cd6)
 [BlockCanary — 轻松找出Android App界面卡顿元凶](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/)
 [使用pngquant来缩小你的APK](http://www.jianshu.com/p/a721fbaa62ab)
-
+[Android性能优化典范](http://hukai.me/android-performance-patterns-season-4/)
+[Android UI性能优化详解](http://music4kid.github.io//android/2016/01/11/android-performance-ui/)
 # 提高 #
 [深入理解Android之AOP](http://blog.csdn.net/innost/article/details/49387395)
 [移动端图片格式调研](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)
 [如何选择 compileSdkVersion, minSdkVersion 和 targetSdkVersion](http://chinagdg.org/2016/01/picking-your-compilesdkversion-minsdkversion-targetsdkversion/)
+[Android平台的崩溃捕获机制及实现](http://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=416184980&idx=1&sn=193b2a8aa3ac91fe54f647068c659633)
 
 # 新特性 #
 [Android M新特性Doze and App Standby模式详解](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400185947&idx=1&sn=a591b76d2c9a085791fd4f12a5b31738&scene=2&srcid=11067beUUcVUcBRI1ajZZ2p7&from=timeline&isappinstalled=0&key=b410d3164f5f798e6f3fbdb81070f8443873c0d4632acc14a6513981556fa35169ba650e853f94945b244528cbd58799&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=hgYTL4MW7%2FI9mnat%2BT9S2RRS0IkFfm6yOLSy%2F4bguL4%3D)

@@ -24,7 +24,8 @@ categories: android
 [如何更新及替换ViewPager中的Fragment](https://segmentfault.com/a/1190000003742057)
 [Android中WebView页面交互](http://segmentfault.com/a/1190000004150350)
 [Android 软键盘和emoji表情切换方案，和微信几乎一样的体验](Android 软键盘和emoji表情切换方案，和微信几乎一样的体验)
-
+[Android -- 固定在ScrollView顶部的View，类似于新浪微博的评论列表的顶部](http://my.oschina.net/Hideeee/blog/500933?fromerr=YG7GdWlK)
+[自定义组件最详细实例讲解（7步实现自定义ViewGroup）](http://leoray.leanote.com/post/viewgroup-custom)
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码
@@ -44,6 +45,7 @@ rg.clearCheck();//清除选中状态的
 [ Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
 [Android App 线上热修复方案](http://mp.weixin.qq.com/s?__biz=MzA3Mjk1MjA4Nw==&mid=400390453&idx=1&sn=ad5e93193f46ba1bdccafda26508d702#rd)
 [解决 singleTask onActivityResult() 无效的问题](http://mthli.github.io/singleTask-onActivityResult/)
+[判断指定App是否位于前台的方法](https://github.com/wenmingvs/AndroidProcess)
 
 # Android studio教程 #
 [配置出“NB”的Android Studio](http://blog.csdn.net/yy1300326388/article/details/46374229) 
@@ -92,6 +94,9 @@ rg.clearCheck();//清除选中状态的
 [Android杂谈--Activity、Window、View的关系](http://www.cnblogs.com/loulijun/archive/2012/02/09/2344681.html)
 [Android应用开发Scroller详解及源码浅析](http://blog.csdn.net/yanbober/article/details/49904715)
 [ Android应用开发之自定义View触摸相关工具类全解](http://blog.csdn.net/yanbober/article/details/50411919)
+[理解Android安全机制](http://android.jobbole.com/82409/)
+[Android Scroller完全解析，关于Scroller你所需知道的一切](http://blog.csdn.net/guolin_blog/article/details/48719871)
+
 # 优化 #
 [给 App 提速：Android 性能优化总结](http://android.jobbole.com/81944/)
 [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
@@ -115,6 +120,10 @@ rg.clearCheck();//清除选中状态的
 [使用pngquant来缩小你的APK](http://www.jianshu.com/p/a721fbaa62ab)
 [Android性能优化典范](http://hukai.me/android-performance-patterns-season-4/)
 [Android UI性能优化详解](http://music4kid.github.io//android/2016/01/11/android-performance-ui/)
+[[个人总结]APK瘦身实践](http://www.jayfeng.com/2015/12/29/APK%E7%98%A6%E8%BA%AB%E5%AE%9E%E8%B7%B5/)
+[Android中导致内存泄漏的竟然是它----Dialog](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403426100&idx=1&sn=aceffb315d63fa0139b0e1c2b0edce64&scene=0&key=710a5d99946419d909c81f932a79710be0582b714c090ef6ac916b002ebd168fd146b8132d3282cc861544ba194025e0&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.2+build(15C50)&version=11020201&pass_ticket=3czwvrJ0y4smIOu90jD4B8NFtnWfzwg%2FT2S2qlILyyY%3D)
+[优化 Android 线程和后台任务开发](https://realm.io/cn/news/android-threading-background-tasks/)
+
 # 提高 #
 [深入理解Android之AOP](http://blog.csdn.net/innost/article/details/49387395)
 [移动端图片格式调研](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)
@@ -123,7 +132,8 @@ rg.clearCheck();//清除选中状态的
 
 # 新特性 #
 [Android M新特性Doze and App Standby模式详解](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400185947&idx=1&sn=a591b76d2c9a085791fd4f12a5b31738&scene=2&srcid=11067beUUcVUcBRI1ajZZ2p7&from=timeline&isappinstalled=0&key=b410d3164f5f798e6f3fbdb81070f8443873c0d4632acc14a6513981556fa35169ba650e853f94945b244528cbd58799&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=hgYTL4MW7%2FI9mnat%2BT9S2RRS0IkFfm6yOLSy%2F4bguL4%3D)
-
+[聊一聊Android 6.0的运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)
+[AppBar简述](http://www.jianshu.com/p/4ce0f3419ca8)
 
 # 架构 #
 [微信为啥这么省流量（技术宅入）](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=400163013&idx=1&sn=911cf71925e2ba50d47955a713134acb&scene=2&srcid=1024VUjDjr5hy3hpqvaZ72D3&from=timeline&isappinstalled=0#rd)
@@ -173,7 +183,7 @@ rg.clearCheck();//清除选中状态的
 [Android中使用Espresso进行UI测试](https://www.aswifter.com/2016/01/03/android-use-Espresso-ui-testing/)
 [Git全解析之用起来先](http://wustrive2008.github.io/2016/01/06/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/Git%E5%85%A8%E8%A7%A3%E6%9E%90%E4%B9%8B%E5%85%88%E7%94%A8%E8%B5%B7%E6%9D%A5/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [Android Studio Gradle实践之多渠道自动化打包+版本号管理](http://unclechen.github.io/2015/10/22/Android%20Studio%20Gradle%E5%AE%9E%E8%B7%B5%E4%B9%8B%E5%A4%9A%E6%B8%A0%E9%81%93%E8%87%AA%E5%8A%A8%E5%8C%96%E6%89%93%E5%8C%85+%E7%89%88%E6%9C%AC%E5%8F%B7%E7%AE%A1%E7%90%86/)
-
+[优雅的Android Studio项目配置--常用库和版本管理](http://www.lcode.org/%E4%BC%98%E9%9B%85%E7%9A%84android-studio%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE-%E5%B8%B8%E7%94%A8%E5%BA%93%E5%92%8C%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/)
 
 # 学习 #
 [Android程序员 如何入门iOS ——故事从这里开始](http://segmentfault.com/a/1190000004268513)
@@ -182,3 +192,19 @@ rg.clearCheck();//清除选中状态的
 # 数据库 #
 [SQLite 大数据量 新增 / 修改 提升效率的办法](http://my.oschina.net/atearsan/blog/187226?fromerr=qCmwUhvO)
 [使用replace](http://www.cnblogs.com/liping13599168/archive/2011/05/24/2054908.html)
+
+
+# 安全 #
+[Android应用安全开发之源码安全](http://drops.wooyun.org/mobile/12172)
+
+
+# 测试 #
+[测试技巧 – 你所不知道的测试黑科技](http://blog.chengdazhi.com/index.php/58)
+
+
+# sdk #
+[sdk](https://www.sdk.cn/)
+
+
+# 适配 #
+[移动端适配方案(下)](https://github.com/riskers/blog/issues/18)

@@ -146,6 +146,8 @@ rg.clearCheck();//清除选中状态的
 [几幅图MVC，MVP 和 MVVM框架一下子全明白了！](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
 [饿了么移动APP的架构演进](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90)
 [Android架构合集](https://github.com/Juude/Awesome-Android-Architecture)
+[Android应用架构](http://blog.zhaiyifan.cn/2016/01/29/android-app-architecture-2015/?from=groupmessage&isappinstalled=0)
+
 
 # 适配 #
 [安卓分辨率的相关知识](http://leoray.leanote.com/post/android-resolution)
@@ -171,6 +173,7 @@ rg.clearCheck();//清除选中状态的
 [Activity LaunchMode 应用场景](http://xiazdong.me/2015/03/08/android-launchmode-application/)
 [Activity的LaunchMode应用场景思考](http://blog.csdn.net/xiaodongrush/article/details/28597855)
 [Android 编程下 Touch 事件的分发和消费机制](Android 编程下 Touch 事件的分发和消费机制)
+[ndroid子线程真的不能更新UI么](http://android.jobbole.com/82431/)
 
 
 # 开发工具 #
@@ -196,11 +199,11 @@ rg.clearCheck();//清除选中状态的
 
 # 安全 #
 [Android应用安全开发之源码安全](http://drops.wooyun.org/mobile/12172)
-
+[Android应用安全开发之防范无意识的数据泄露](http://drops.wooyun.org/mobile/12469)
 
 # 测试 #
 [测试技巧 – 你所不知道的测试黑科技](http://blog.chengdazhi.com/index.php/58)
-
+[[团队分享]使用jenkins自动化构建android和ios应用](http://weekly.manong.io/issues/104?hmsr=toutiao.io&ref=toutiao&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 # sdk #
 [sdk](https://www.sdk.cn/)
@@ -208,3 +211,6 @@ rg.clearCheck();//清除选中状态的
 
 # 适配 #
 [移动端适配方案(下)](https://github.com/riskers/blog/issues/18)
+
+# 管理 #
+[[团队分享]如何更好的开发一个Android应用](http://www.jayfeng.com/2016/01/06/%E5%A6%82%E4%BD%95%E6%9B%B4%E5%A5%BD%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AAAndroid%E5%BA%94%E7%94%A8/#more)

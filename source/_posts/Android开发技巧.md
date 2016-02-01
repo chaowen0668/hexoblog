@@ -123,6 +123,8 @@ rg.clearCheck();//清除选中状态的
 [[个人总结]APK瘦身实践](http://www.jayfeng.com/2015/12/29/APK%E7%98%A6%E8%BA%AB%E5%AE%9E%E8%B7%B5/)
 [Android中导致内存泄漏的竟然是它----Dialog](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403426100&idx=1&sn=aceffb315d63fa0139b0e1c2b0edce64&scene=0&key=710a5d99946419d909c81f932a79710be0582b714c090ef6ac916b002ebd168fd146b8132d3282cc861544ba194025e0&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.2+build(15C50)&version=11020201&pass_ticket=3czwvrJ0y4smIOu90jD4B8NFtnWfzwg%2FT2S2qlILyyY%3D)
 [优化 Android 线程和后台任务开发](https://realm.io/cn/news/android-threading-background-tasks/)
+[Android 内存泄漏总结](https://yq.aliyun.com/articles/3009?spm=5176.100238.yqhn2.14.yN83zE&comefrom=http://blogread.cn/news/)
+
 
 # 提高 #
 [深入理解Android之AOP](http://blog.csdn.net/innost/article/details/49387395)
@@ -214,4 +216,8 @@ rg.clearCheck();//清除选中状态的
 [移动端适配方案(下)](https://github.com/riskers/blog/issues/18)
 
 # 管理 #
-[[团队分享]如何更好的开发一个Android应用](http://www.jayfeng.com/2016/01/06/%E5%A6%82%E4%BD%95%E6%9B%B4%E5%A5%BD%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AAAndroid%E5%BA%94%E7%94%A8/#more)
+[团队分享]如何更好的开发一个Android应用](http://www.jayfeng.com/2016/01/06/%E5%A6%82%E4%BD%95%E6%9B%B4%E5%A5%BD%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AAAndroid%E5%BA%94%E7%94%A8/#more)
+
+
+# Reactnative #
+[史上最详细Windows版本搭建安装React Native环境配置](http://www.lcode.org/%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%AF%A6%E7%BB%86windows%E7%89%88%E6%9C%AC%E6%90%AD%E5%BB%BA%E5%AE%89%E8%A3%85react-native%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)

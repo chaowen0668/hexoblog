@@ -191,6 +191,7 @@ rg.clearCheck();//清除选中状态的
 # 学习 #
 [Android程序员 如何入门iOS ——故事从这里开始](http://segmentfault.com/a/1190000004268513)
 [Android开发技术周报特刊之React Native](http://www.androidweekly.cn/android-dev-special-weekly-react-native/)
+[生还是死？Android 进程优先级详解](http://chinagdg.org/2016/01/%E7%94%9F%E8%BF%98%E6%98%AF%E6%AD%BB%EF%BC%9Fandroid-%E8%BF%9B%E7%A8%8B%E4%BC%98%E5%85%88%E7%BA%A7%E8%AF%A6%E8%A7%A3/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 # 数据库 #
 [SQLite 大数据量 新增 / 修改 提升效率的办法](http://my.oschina.net/atearsan/blog/187226?fromerr=qCmwUhvO)

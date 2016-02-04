@@ -65,6 +65,7 @@ App Name                   | Describe                  | Major Language         
 [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus) | swift2.0编写的CocoaChina客户端
 [GoTao](https://github.com/marknote/GoTao) | 用Swift写围棋App
 [Yep](https://github.com/CatchChat/Yep) | Yep 是一款非常小巧而轻量化的社交 App
+[PinGo](https://github.com/gaowanli/PinGo) | 纯Swift编写的仿“随遇”App
 
 ## 开发网站 ##
 [swiftcafe](http://swiftcafe.io/)

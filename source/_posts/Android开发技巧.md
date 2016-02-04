@@ -26,6 +26,7 @@ categories: android
 [Android 软键盘和emoji表情切换方案，和微信几乎一样的体验](Android 软键盘和emoji表情切换方案，和微信几乎一样的体验)
 [Android -- 固定在ScrollView顶部的View，类似于新浪微博的评论列表的顶部](http://my.oschina.net/Hideeee/blog/500933?fromerr=YG7GdWlK)
 [自定义组件最详细实例讲解（7步实现自定义ViewGroup）](http://leoray.leanote.com/post/viewgroup-custom)
+[在滚动列表中实现视频的播放(ListView & RecyclerView)](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0130/3927.html)
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码
@@ -46,6 +47,7 @@ rg.clearCheck();//清除选中状态的
 [Android App 线上热修复方案](http://mp.weixin.qq.com/s?__biz=MzA3Mjk1MjA4Nw==&mid=400390453&idx=1&sn=ad5e93193f46ba1bdccafda26508d702#rd)
 [解决 singleTask onActivityResult() 无效的问题](http://mthli.github.io/singleTask-onActivityResult/)
 [判断指定App是否位于前台的方法](https://github.com/wenmingvs/AndroidProcess)
+[Android开发的那些坑和小技巧](http://www.cnblogs.com/lao-liang/p/4941653.html?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 # Android studio教程 #
 [配置出“NB”的Android Studio](http://blog.csdn.net/yy1300326388/article/details/46374229) 
@@ -136,6 +138,8 @@ rg.clearCheck();//清除选中状态的
 [Android M新特性Doze and App Standby模式详解](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400185947&idx=1&sn=a591b76d2c9a085791fd4f12a5b31738&scene=2&srcid=11067beUUcVUcBRI1ajZZ2p7&from=timeline&isappinstalled=0&key=b410d3164f5f798e6f3fbdb81070f8443873c0d4632acc14a6513981556fa35169ba650e853f94945b244528cbd58799&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=hgYTL4MW7%2FI9mnat%2BT9S2RRS0IkFfm6yOLSy%2F4bguL4%3D)
 [聊一聊Android 6.0的运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)
 [AppBar简述](http://www.jianshu.com/p/4ce0f3419ca8)
+[AppBar的详解](https://github.com/SpikeKing/TestAppBar)
+[Android 6.0: 动态权限管理的解决方案](http://www.jianshu.com/p/dbe4d37731e6)
 
 # 架构 #
 [微信为啥这么省流量（技术宅入）](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=400163013&idx=1&sn=911cf71925e2ba50d47955a713134acb&scene=2&srcid=1024VUjDjr5hy3hpqvaZ72D3&from=timeline&isappinstalled=0#rd)

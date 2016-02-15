@@ -27,6 +27,7 @@ categories: android
 [Android -- 固定在ScrollView顶部的View，类似于新浪微博的评论列表的顶部](http://my.oschina.net/Hideeee/blog/500933?fromerr=YG7GdWlK)
 [自定义组件最详细实例讲解（7步实现自定义ViewGroup）](http://leoray.leanote.com/post/viewgroup-custom)
 [在滚动列表中实现视频的播放(ListView & RecyclerView)](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0130/3927.html)
+[Android开发中一些被冷落但却很有用的类和方法](http://t.cn/RbsSFw0)
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码
@@ -98,6 +99,7 @@ rg.clearCheck();//清除选中状态的
 [ Android应用开发之自定义View触摸相关工具类全解](http://blog.csdn.net/yanbober/article/details/50411919)
 [理解Android安全机制](http://android.jobbole.com/82409/)
 [Android Scroller完全解析，关于Scroller你所需知道的一切](http://blog.csdn.net/guolin_blog/article/details/48719871)
+[阅读Android源码的一些姿势](http://zhuanlan.zhihu.com/kaede/20564614?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 # 优化 #
 [给 App 提速：Android 性能优化总结](http://android.jobbole.com/81944/)
@@ -198,6 +200,7 @@ rg.clearCheck();//清除选中状态的
 [Android程序员 如何入门iOS ——故事从这里开始](http://segmentfault.com/a/1190000004268513)
 [Android开发技术周报特刊之React Native](http://www.androidweekly.cn/android-dev-special-weekly-react-native/)
 [生还是死？Android 进程优先级详解](http://chinagdg.org/2016/01/%E7%94%9F%E8%BF%98%E6%98%AF%E6%AD%BB%EF%BC%9Fandroid-%E8%BF%9B%E7%A8%8B%E4%BC%98%E5%85%88%E7%BA%A7%E8%AF%A6%E8%A7%A3/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[Kotlin for android developers》中文版翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh)
 
 # 数据库 #
 [SQLite 大数据量 新增 / 修改 提升效率的办法](http://my.oschina.net/atearsan/blog/187226?fromerr=qCmwUhvO)
@@ -225,3 +228,11 @@ rg.clearCheck();//清除选中状态的
 
 # Reactnative #
 [史上最详细Windows版本搭建安装React Native环境配置](http://www.lcode.org/%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%AF%A6%E7%BB%86windows%E7%89%88%E6%9C%AC%E6%90%AD%E5%BB%BA%E5%AE%89%E8%A3%85react-native%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+
+
+
+TODO 新技术
+1.kotlin
+2.Reace Native
+3.swift

@@ -28,6 +28,7 @@ categories: android
 [自定义组件最详细实例讲解（7步实现自定义ViewGroup）](http://leoray.leanote.com/post/viewgroup-custom)
 [在滚动列表中实现视频的播放(ListView & RecyclerView)](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0130/3927.html)
 [Android开发中一些被冷落但却很有用的类和方法](http://t.cn/RbsSFw0)
+[Android夜间模式最佳实践]()
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码

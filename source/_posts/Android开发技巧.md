@@ -29,6 +29,8 @@ categories: android
 [在滚动列表中实现视频的播放(ListView & RecyclerView)](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0130/3927.html)
 [Android开发中一些被冷落但却很有用的类和方法](http://t.cn/RbsSFw0)
 [Android夜间模式最佳实践]()
+[Android开发：最详细的 Toolbar 开发实践总结](http://www.jianshu.com/p/79604c3ddcae)
+
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码
@@ -82,6 +84,8 @@ rg.clearCheck();//清除选中状态的
 [Retrofit 入门教程](https://futurestud.io/blog/retrofit-getting-started-and-android-client/)
 [好用的网络请求库Retrofit2（入门及讲解）](http://blog.csdn.net/biezhihua/article/details/49232289)
 [安卓下拉刷新开源库对比](https://github.com/desmond1121/Android-Ptr-Comparison/blob/master/README.md)
+[Volley+OkHttp3+Gson（Jackson）开源库的封装过程](http://allenlin.leanote.com/post/volleyokhttpgson)
+[如何更高效地使用 OkHttp](http://brucezz.github.io/articles/2016/02/21/effective-okhttp/)
 
 # 设计师 #
 [APP界面切图命名和文件整理规范](http://www.shejipai.cn/map-file-naming-and-specification.html)
@@ -136,6 +140,7 @@ rg.clearCheck();//清除选中状态的
 [移动端图片格式调研](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)
 [如何选择 compileSdkVersion, minSdkVersion 和 targetSdkVersion](http://chinagdg.org/2016/01/picking-your-compilesdkversion-minsdkversion-targetsdkversion/)
 [Android平台的崩溃捕获机制及实现](http://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=416184980&idx=1&sn=193b2a8aa3ac91fe54f647068c659633)
+[携程Android App插件化和动态加载实践](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=401890966&idx=1&sn=b8d888acb7d4ace5d4e579a5588bf90b&scene=1&srcid=0219aSN6dGolDZQV0GnyqDPP&from=groupmessage&isappinstalled=0#wechat_redirect)
 
 # 新特性 #
 [Android M新特性Doze and App Standby模式详解](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400185947&idx=1&sn=a591b76d2c9a085791fd4f12a5b31738&scene=2&srcid=11067beUUcVUcBRI1ajZZ2p7&from=timeline&isappinstalled=0&key=b410d3164f5f798e6f3fbdb81070f8443873c0d4632acc14a6513981556fa35169ba650e853f94945b244528cbd58799&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=hgYTL4MW7%2FI9mnat%2BT9S2RRS0IkFfm6yOLSy%2F4bguL4%3D)
@@ -143,6 +148,7 @@ rg.clearCheck();//清除选中状态的
 [AppBar简述](http://www.jianshu.com/p/4ce0f3419ca8)
 [AppBar的详解](https://github.com/SpikeKing/TestAppBar)
 [Android 6.0: 动态权限管理的解决方案](http://www.jianshu.com/p/dbe4d37731e6)
+[Android 6.0 运行时权限处理完全解析](http://blog.csdn.net/lmj623565791/article/details/50709663)
 
 # 架构 #
 [微信为啥这么省流量（技术宅入）](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=400163013&idx=1&sn=911cf71925e2ba50d47955a713134acb&scene=2&srcid=1024VUjDjr5hy3hpqvaZ72D3&from=timeline&isappinstalled=0#rd)
@@ -203,6 +209,9 @@ rg.clearCheck();//清除选中状态的
 [Android开发技术周报特刊之React Native](http://www.androidweekly.cn/android-dev-special-weekly-react-native/)
 [生还是死？Android 进程优先级详解](http://chinagdg.org/2016/01/%E7%94%9F%E8%BF%98%E6%98%AF%E6%AD%BB%EF%BC%9Fandroid-%E8%BF%9B%E7%A8%8B%E4%BC%98%E5%85%88%E7%BA%A7%E8%AF%A6%E8%A7%A3/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [Kotlin for android developers》中文版翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh)
+[定期翻译Android官方博客](https://github.com/smallSohoSolo/android-developer-blog-cn)
+[android学习资料](https://github.com/Freelander/Android_Data)
+[10个很棒的学习Android 开发的网站](http://mp.weixin.qq.com/s?__biz=MzA4MTg4MjkzMw==&mid=214243534&idx=1&sn=7e8afe532c7809dc1b27456516d42239&scene=4#wechat_redirect)
 
 # 数据库 #
 [SQLite 大数据量 新增 / 修改 提升效率的办法](http://my.oschina.net/atearsan/blog/187226?fromerr=qCmwUhvO)
@@ -216,6 +225,8 @@ rg.clearCheck();//清除选中状态的
 # 测试 #
 [测试技巧 – 你所不知道的测试黑科技](http://blog.chengdazhi.com/index.php/58)
 [[团队分享]使用jenkins自动化构建android和ios应用](http://weekly.manong.io/issues/104?hmsr=toutiao.io&ref=toutiao&utm_medium=toutiao.io&utm_source=toutiao.io)
+[世界级的Android测试开发流程（一）](http://blog.zhaiyifan.cn/2016/02/23/world-class-testing-development-pipeline-for-android-part-1/)
+[世界级的Android测试开发流程（二）](http://blog.zhaiyifan.cn/2016/02/23/world-class-testing-development-pipeline-for-android-part-2/)
 
 # sdk #
 [sdk](https://www.sdk.cn/)
@@ -231,7 +242,8 @@ rg.clearCheck();//清除选中状态的
 # Reactnative #
 [史上最详细Windows版本搭建安装React Native环境配置](http://www.lcode.org/%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%AF%A6%E7%BB%86windows%E7%89%88%E6%9C%AC%E6%90%AD%E5%BB%BA%E5%AE%89%E8%A3%85react-native%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-
+# kotlin #
+[kotlin学习资源整理](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=401833091&idx=1&sn=9685218eeac4abfbafdfacd81950bfa1)
 
 
 TODO 新技术

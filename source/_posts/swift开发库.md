@@ -66,6 +66,9 @@ App Name                   | Describe                  | Major Language         
 [GoTao](https://github.com/marknote/GoTao) | 用Swift写围棋App
 [Yep](https://github.com/CatchChat/Yep) | Yep 是一款非常小巧而轻量化的社交 App
 [PinGo](https://github.com/gaowanli/PinGo) | 纯Swift编写的仿“随遇”App
+[LoveFreshBeen](https://github.com/ZhongTaoTian/LoveFreshBeen) | 高仿爱鲜蜂By Swift2.0
+[SuperNote](https://github.com/tangqi92/SuperNote)| 超级记事本
+
 
 ## 开发网站 ##
 [swiftcafe](http://swiftcafe.io/)

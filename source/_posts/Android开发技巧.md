@@ -30,7 +30,7 @@ categories: android
 [Android开发中一些被冷落但却很有用的类和方法](http://t.cn/RbsSFw0)
 [Android夜间模式最佳实践]()
 [Android开发：最详细的 Toolbar 开发实践总结](http://www.jianshu.com/p/79604c3ddcae)
-
+[这可能是目前最鲁棒的Android声音录制和播放封装库了](http://blog.piasy.com/Robust-Android-Audio-encapsulation/)
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码
@@ -105,6 +105,8 @@ rg.clearCheck();//清除选中状态的
 [理解Android安全机制](http://android.jobbole.com/82409/)
 [Android Scroller完全解析，关于Scroller你所需知道的一切](http://blog.csdn.net/guolin_blog/article/details/48719871)
 [阅读Android源码的一些姿势](http://zhuanlan.zhihu.com/kaede/20564614?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[深入理解LayoutInflater.inflate()](http://blog.chengdazhi.com/index.php/110?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[关于获取当前Activity的一些思考](http://droidyue.com/blog/2016/02/21/thinking-of-getting-the-current-activity-in-android/)
 
 # 优化 #
 [给 App 提速：Android 性能优化总结](http://android.jobbole.com/81944/)
@@ -245,6 +247,8 @@ rg.clearCheck();//清除选中状态的
 # kotlin #
 [kotlin学习资源整理](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=401833091&idx=1&sn=9685218eeac4abfbafdfacd81950bfa1)
 
+# 简历 #
+[程序员，你的简历应该这样弄](http://www.devstore.cn/essay/essayInfo/5557.html)
 
 TODO 新技术
 1.kotlin

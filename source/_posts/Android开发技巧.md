@@ -226,7 +226,7 @@ rg.clearCheck();//清除选中状态的
 
 # 测试 #
 [测试技巧 – 你所不知道的测试黑科技](http://blog.chengdazhi.com/index.php/58)
-[[团队分享]使用jenkins自动化构建android和ios应用](http://weekly.manong.io/issues/104?hmsr=toutiao.io&ref=toutiao&utm_medium=toutiao.io&utm_source=toutiao.io)
+[[团队分享]使用jenkins自动化构建android和ios应用](http://www.jayfeng.com/2015/10/22/%E4%BD%BF%E7%94%A8jenkins%E8%87%AA%E5%8A%A8%E5%8C%96%E6%9E%84%E5%BB%BAandroid%E5%92%8Cios%E5%BA%94%E7%94%A8/)
 [世界级的Android测试开发流程（一）](http://blog.zhaiyifan.cn/2016/02/23/world-class-testing-development-pipeline-for-android-part-1/)
 [世界级的Android测试开发流程（二）](http://blog.zhaiyifan.cn/2016/02/23/world-class-testing-development-pipeline-for-android-part-2/)
 

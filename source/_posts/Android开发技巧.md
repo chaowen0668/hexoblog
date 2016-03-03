@@ -31,6 +31,7 @@ categories: android
 [Android夜间模式最佳实践]()
 [Android开发：最详细的 Toolbar 开发实践总结](http://www.jianshu.com/p/79604c3ddcae)
 [这可能是目前最鲁棒的Android声音录制和播放封装库了](http://blog.piasy.com/Robust-Android-Audio-encapsulation/)
+[Android NavigationDrawer 开发实践总结](http://www.jianshu.com/p/c8cbeb7ea43a)
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码
@@ -143,7 +144,7 @@ rg.clearCheck();//清除选中状态的
 [如何选择 compileSdkVersion, minSdkVersion 和 targetSdkVersion](http://chinagdg.org/2016/01/picking-your-compilesdkversion-minsdkversion-targetsdkversion/)
 [Android平台的崩溃捕获机制及实现](http://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=416184980&idx=1&sn=193b2a8aa3ac91fe54f647068c659633)
 [携程Android App插件化和动态加载实践](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=401890966&idx=1&sn=b8d888acb7d4ace5d4e579a5588bf90b&scene=1&srcid=0219aSN6dGolDZQV0GnyqDPP&from=groupmessage&isappinstalled=0#wechat_redirect)
-
+[Binder学习指南](http://weishu.me/2016/01/12/binder-index-for-newer/)
 # 新特性 #
 [Android M新特性Doze and App Standby模式详解](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400185947&idx=1&sn=a591b76d2c9a085791fd4f12a5b31738&scene=2&srcid=11067beUUcVUcBRI1ajZZ2p7&from=timeline&isappinstalled=0&key=b410d3164f5f798e6f3fbdb81070f8443873c0d4632acc14a6513981556fa35169ba650e853f94945b244528cbd58799&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=hgYTL4MW7%2FI9mnat%2BT9S2RRS0IkFfm6yOLSy%2F4bguL4%3D)
 [聊一聊Android 6.0的运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)
@@ -151,6 +152,7 @@ rg.clearCheck();//清除选中状态的
 [AppBar的详解](https://github.com/SpikeKing/TestAppBar)
 [Android 6.0: 动态权限管理的解决方案](http://www.jianshu.com/p/dbe4d37731e6)
 [Android 6.0 运行时权限处理完全解析](http://blog.csdn.net/lmj623565791/article/details/50709663)
+[Android Support Library 23.2有哪些新东西](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0226/3996.html)
 
 # 架构 #
 [微信为啥这么省流量（技术宅入）](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=400163013&idx=1&sn=911cf71925e2ba50d47955a713134acb&scene=2&srcid=1024VUjDjr5hy3hpqvaZ72D3&from=timeline&isappinstalled=0#rd)

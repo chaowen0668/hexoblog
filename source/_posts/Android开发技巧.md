@@ -207,6 +207,10 @@ rg.clearCheck();//清除选中状态的
 [Android Studio Gradle实践之多渠道自动化打包+版本号管理](http://unclechen.github.io/2015/10/22/Android%20Studio%20Gradle%E5%AE%9E%E8%B7%B5%E4%B9%8B%E5%A4%9A%E6%B8%A0%E9%81%93%E8%87%AA%E5%8A%A8%E5%8C%96%E6%89%93%E5%8C%85+%E7%89%88%E6%9C%AC%E5%8F%B7%E7%AE%A1%E7%90%86/)
 [优雅的Android Studio项目配置--常用库和版本管理](http://www.lcode.org/%E4%BC%98%E9%9B%85%E7%9A%84android-studio%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE-%E5%B8%B8%E7%94%A8%E5%BA%93%E5%92%8C%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/)
 [使用Android Studio查找文件中含有中文字符串位置](http://waychel.com/shi-yong-android-studiocha-zhao-wen-jian-zhong-han-you-zhong-wen-zi-fu-chuan-wei-zhi/)
+[Android studio调试技巧](https://docs.google.com/presentation/d/1Ilb3kBa8C7cArhu7-4TAsA-dDxFkvv9eRL7DC6H56sE/pub?start=false&loop=false&delayms=3000&slide=id.g11baac1e97_0_155)
+
+
+
 
 # 学习 #
 [Android程序员 如何入门iOS ——故事从这里开始](http://segmentfault.com/a/1190000004268513)
@@ -248,6 +252,8 @@ rg.clearCheck();//清除选中状态的
 
 # kotlin #
 [kotlin学习资源整理](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=401833091&idx=1&sn=9685218eeac4abfbafdfacd81950bfa1)
+[Kotlin for android developers](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md)
+
 
 # 简历 #
 [程序员，你的简历应该这样弄](http://www.devstore.cn/essay/essayInfo/5557.html)

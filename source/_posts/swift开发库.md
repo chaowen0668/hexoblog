@@ -68,6 +68,7 @@ App Name                   | Describe                  | Major Language         
 [PinGo](https://github.com/gaowanli/PinGo) | 纯Swift编写的仿“随遇”App
 [LoveFreshBeen](https://github.com/ZhongTaoTian/LoveFreshBeen) | 高仿爱鲜蜂By Swift2.0
 [SuperNote](https://github.com/tangqi92/SuperNote)| 超级记事本
+[prankPro](https://github.com/huijimuhe/prankPro)| 短视频ios app
 
 
 ## 开发网站 ##

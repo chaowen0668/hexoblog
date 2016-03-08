@@ -195,7 +195,7 @@ rg.clearCheck();//清除选中状态的
 [Activity的LaunchMode应用场景思考](http://blog.csdn.net/xiaodongrush/article/details/28597855)
 [Android 编程下 Touch 事件的分发和消费机制](Android 编程下 Touch 事件的分发和消费机制)
 [ndroid子线程真的不能更新UI么](http://android.jobbole.com/82431/)
-
+[程序员怎么获得高工资](http://sendcloud_track.batch.manong.io/track/click/eyJ1c2VyX2lkIjogMTg3LCAidGFza19pZCI6ICIiLCAiZW1haWxfaWQiOiAiMTQ1NzQ1MTk2NjA0NF8xODdfMTM3MTBfMjEwMi5zYy0xMF8xMF8yNF8xODQtaW5ib3VuZDAkNTExNjQ0Nzg0QHFxLmNvbSIsICJzaWduIjogIjIzZTQ0ZDhmYTBlOGQ4YTQyODMzYTRhODA4ZmNkMzEyIiwgInVzZXJfaGVhZGVycyI6IHt9LCAibGFiZWwiOiAiMTY4MzMiLCAibGluayI6ICJodHRwJTNBLy93ZWVrbHkubWFub25nLmlvL2JvdW5jZSUzRnVybCUzRGh0dHAlMjUzQSUyNTJGJTI1MkZ3d3cuc3VuaGFvamllLmNvbSUyNTJGMjAxNiUyNTJGMDElMjUyRjA2JTI1MkYlMjUyNUU3JTI1MjVBOCUyNTI1OEIlMjUyNUU1JTI1MjVCQSUyNTI1OEYlMjUyNUU1JTI1MjU5MSUyNTI1OTglMjUyNUU2JTI1MjU4MCUyNTI1OEUlMjUyNUU0JTI1MjVCOSUyNTI1ODglMjUyNUU4JTI1MjU4RSUyNTI1QjclMjUyNUU1JTI1MjVCRSUyNTI1OTclMjUyNUU5JTI1MjVBQiUyNTI1OTglMjUyNUU1JTI1MjVCNyUyNTI1QTUlMjUyNUU4JTI1MjVCNSUyNTI1ODQlMjUyRiUyNmFpZCUzRDU0NzglMjZuaWQlM0QxMDgiLCAiY2F0ZWdvcnlfaWQiOiA2MDU4OX0=.html)
 
 # 开发工具 #
 [日常使用 Git 的 19 个建议](http://blog.jobbole.com/96088/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -260,6 +260,10 @@ rg.clearCheck();//清除选中状态的
 
 # 简历 #
 [程序员，你的简历应该这样弄](http://www.devstore.cn/essay/essayInfo/5557.html)
+
+
+#网站 #
+[在线 API 文档、技术文档工具 ShowDoc  ](http://doc.star7th.com/index.php/)
 
 TODO 新技术
 1.kotlin

@@ -69,7 +69,8 @@ App Name                   | Describe                  | Major Language         
 [LoveFreshBeen](https://github.com/ZhongTaoTian/LoveFreshBeen) | 高仿爱鲜蜂By Swift2.0
 [SuperNote](https://github.com/tangqi92/SuperNote)| 超级记事本
 [prankPro](https://github.com/huijimuhe/prankPro)| 短视频ios app
-
+[iOS完整App资源收集](http://sendcloud_track.batch.manong.io/track/click/eyJ1c2VyX2lkIjogMTg3LCAidGFza19pZCI6ICIiLCAiZW1haWxfaWQiOiAiMTQ1NzQ1MTk2NjA0NF8xODdfMTM3MTBfMjEwMi5zYy0xMF8xMF8yNF8xODQtaW5ib3VuZDAkNTExNjQ0Nzg0QHFxLmNvbSIsICJzaWduIjogIjI0NmY0Nzk1YzBkMjVjYmY5NDMwMzI0ZjRlMWY2YWJiIiwgInVzZXJfaGVhZGVycyI6IHt9LCAibGFiZWwiOiAiMTY4MzMiLCAibGluayI6ICJodHRwJTNBLy93ZWVrbHkubWFub25nLmlvL2JvdW5jZSUzRnVybCUzRGh0dHAlMjUzQSUyNTJGJTI1MkZ3d3cuaGVuaXNodW8uY29tJTI1MkZpb3MtYXBwLWZ1bGx5LWNvZGUlMjUyRiUyNmFpZCUzRDU0NTUlMjZuaWQlM0QxMDgiLCAiY2F0ZWdvcnlfaWQiOiA2MDU4OX0=.html)
+[Swift 开源项目精选－v1.0](http://t.cn/RG8GH80)
 
 ## 开发网站 ##
 [swiftcafe](http://swiftcafe.io/)

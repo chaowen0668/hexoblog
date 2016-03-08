@@ -32,6 +32,8 @@ categories: android
 [Android开发：最详细的 Toolbar 开发实践总结](http://www.jianshu.com/p/79604c3ddcae)
 [这可能是目前最鲁棒的Android声音录制和播放封装库了](http://blog.piasy.com/Robust-Android-Audio-encapsulation/)
 [Android NavigationDrawer 开发实践总结](http://www.jianshu.com/p/c8cbeb7ea43a)
+[Android 界面性能调优资料](https://testerhome.com/topics/4304?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码
@@ -136,7 +138,7 @@ rg.clearCheck();//清除选中状态的
 [Android中导致内存泄漏的竟然是它----Dialog](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403426100&idx=1&sn=aceffb315d63fa0139b0e1c2b0edce64&scene=0&key=710a5d99946419d909c81f932a79710be0582b714c090ef6ac916b002ebd168fd146b8132d3282cc861544ba194025e0&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.2+build(15C50)&version=11020201&pass_ticket=3czwvrJ0y4smIOu90jD4B8NFtnWfzwg%2FT2S2qlILyyY%3D)
 [优化 Android 线程和后台任务开发](https://realm.io/cn/news/android-threading-background-tasks/)
 [Android 内存泄漏总结](https://yq.aliyun.com/articles/3009?spm=5176.100238.yqhn2.14.yN83zE&comefrom=http://blogread.cn/news/)
-
+[Android APK终极瘦身21招](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=402380504&idx=1&sn=7013f0842867a21555adcf445c7c03ee#rd)
 
 # 提高 #
 [深入理解Android之AOP](http://blog.csdn.net/innost/article/details/49387395)
@@ -166,7 +168,7 @@ rg.clearCheck();//清除选中状态的
 [饿了么移动APP的架构演进](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90)
 [Android架构合集](https://github.com/Juude/Awesome-Android-Architecture)
 [Android应用架构](http://blog.zhaiyifan.cn/2016/01/29/android-app-architecture-2015/?from=groupmessage&isappinstalled=0)
-
+[Android干净架构详解：为你的应用打造一个清爽的架构！](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=402486518&idx=1&sn=e466c3cfcbe02126d92f81cfc347fba4#rd)
 
 # 适配 #
 [安卓分辨率的相关知识](http://leoray.leanote.com/post/android-resolution)
@@ -208,7 +210,7 @@ rg.clearCheck();//清除选中状态的
 [优雅的Android Studio项目配置--常用库和版本管理](http://www.lcode.org/%E4%BC%98%E9%9B%85%E7%9A%84android-studio%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE-%E5%B8%B8%E7%94%A8%E5%BA%93%E5%92%8C%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/)
 [使用Android Studio查找文件中含有中文字符串位置](http://waychel.com/shi-yong-android-studiocha-zhao-wen-jian-zhong-han-you-zhong-wen-zi-fu-chuan-wei-zhi/)
 [Android studio调试技巧](https://docs.google.com/presentation/d/1Ilb3kBa8C7cArhu7-4TAsA-dDxFkvv9eRL7DC6H56sE/pub?start=false&loop=false&delayms=3000&slide=id.g11baac1e97_0_155)
-
+[更优雅的 Android 发布自动版本号方案](http://www.race604.com/android-auto-version/)
 
 
 
@@ -253,7 +255,8 @@ rg.clearCheck();//清除选中状态的
 # kotlin #
 [kotlin学习资源整理](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=401833091&idx=1&sn=9685218eeac4abfbafdfacd81950bfa1)
 [Kotlin for android developers](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md)
-
+[Building a Kotlin project 1/2](http://cirorizzo.net/2016/03/04/building-a-kotlin-project/?utm_source=Android+Weekly&utm_campaign=36def426b1-Android_Weekly_195&utm_medium=email&utm_term=0_4eb677ad19-36def426b1-337851685)
+[Building a Kotlin project 2/2](http://www.cirorizzo.net/2016/03/04/building-a-kotlin-project-2/?utm_source=Android+Weekly&utm_campaign=36def426b1-Android_Weekly_195&utm_medium=email&utm_term=0_4eb677ad19-36def426b1-337851685)
 
 # 简历 #
 [程序员，你的简历应该这样弄](http://www.devstore.cn/essay/essayInfo/5557.html)

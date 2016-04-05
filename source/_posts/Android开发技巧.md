@@ -57,6 +57,9 @@ rg.clearCheck();//清除选中状态的
 [判断指定App是否位于前台的方法](https://github.com/wenmingvs/AndroidProcess)
 [Android开发的那些坑和小技巧](http://www.cnblogs.com/lao-liang/p/4941653.html?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [你应该知道的那些Android小经验](https://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=404388098&idx=1&sn=8bbbba7692dca68cdda2212dec4d86c0&scene=1&srcid=0320gXPloap70ixGeYnNUaAW&key=710a5d99946419d972fe638b34e38edcf7064c302f8526f10b927c7e27886585b83b5b60bc342db482d2a7846e24c284&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=pvdhfR4lRer%2FtYDsP5cnFux5OK0GM%2FUQMgt5TOvHlpQ%3D)
+[android:process 的坑，你懂吗？](http://sendcloud_track.batch.manong.io/track/click/eyJ1c2VyX2lkIjogMTg3LCAidGFza19pZCI6ICIiLCAiZW1haWxfaWQiOiAiMTQ1ODY1OTkwNjU3MF8xODdfODk3M18yMjM2LnNjLTEwXzEwXzI0XzE1Ni1pbmJvdW5kMCQ1MTE2NDQ3ODRAcXEuY29tIiwgInNpZ24iOiAiMTE1MzMzNTU4ODg0OTViY2FkZGRiMGRmZmFjODAyNWIiLCAidXNlcl9oZWFkZXJzIjoge30sICJsYWJlbCI6ICIxNjgzMyIsICJsaW5rIjogImh0dHAlM0EvL3dlZWtseS5tYW5vbmcuaW8vYm91bmNlJTNGdXJsJTNEaHR0cCUyNTNBJTI1MkYlMjUyRnd3dy5yb2dlcmJsb2cuY24lMjUyRjIwMTYlMjUyRjAzJTI1MkYxNyUyNTJGYW5kcm9pZC1wcm9lc3MlMjUyRiUyNmFpZCUzRDU1NzElMjZuaWQlM0QxMTAiLCAiY2F0ZWdvcnlfaWQiOiA2MDU4OX0=.html)
+[关于Android开发的40条优化建议](http://t.cn/RqPvBEl)
+[APK瘦身记，如何实现高达53%的压缩效果](https://mp.weixin.qq.com/s?__biz=MzIwMTI4Nzk5Ng==&mid=402517579&idx=1&sn=2951ec2b3aef4ce6f6a5c06ad4c49d73&scene=1&srcid=03306GCdiG6G4yhZIaDsHVL9&key=710a5d99946419d9193b805ec5a41fb34a812c3dc4608557894831240095cf354407df239d9d78b9f6ab8b7a69a918be&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=AOchp9l%2F7Ug8gVFlX0%2BK1tAyLOPwStguLTy4jV5RBLc%3D)
 
 # Android studio教程 #
 [配置出“NB”的Android Studio](http://blog.csdn.net/yy1300326388/article/details/46374229) 
@@ -75,6 +78,7 @@ rg.clearCheck();//清除选中状态的
 [我们为什么要在Android中使用RxJava](http://blog.csdn.net/jijiaxin1989/article/details/50517068#0-tsina-1-18574-397232819ff9a47a7b7e80a40613cfe1)
 [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 [一个用于学习RxJava操作符的APP](https://github.com/jiang111/RxJavaApp)
+[从案例学习RxAndroid](http://androidweekly.us9.list-manage.com/track/click?u=3f24a71686f577759d1824501&id=f45c87bab2&e=c10fafc873)
 
 # Handler #
 [Android Handler消息机制的理解](http://anany.me/2015/04/12/handler/)
@@ -115,6 +119,8 @@ rg.clearCheck();//清除选中状态的
 [阅读Android源码的一些姿势](http://zhuanlan.zhihu.com/kaede/20564614?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [深入理解LayoutInflater.inflate()](http://blog.chengdazhi.com/index.php/110?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [关于获取当前Activity的一些思考](http://droidyue.com/blog/2016/02/21/thinking-of-getting-the-current-activity-in-android/)
+[ViewAnimator源码分析](http://t.cn/RqhoVje)
+[AsyncTask源码剖析](http://email.mail.gank.io/c/eJw1j02KwzAMhU8TL40k26q98CIDLcxuFr2A6oQ2pEl_0ln09pVgBuyn76EnGQ81thYCu6kSIEOgpDcm8mTsOWPmLsIi09WfZZ39dHOXCokzMMkQsxQgKSOPNJIA44DtBG6piFgiZXetl9fr3oW-o4Oe7S7P-f0rq19GtfaoFgjGJv32XttRtrmjtNdW-tLBVMDsTqU3ymg2GRXr8n-47P_Cuf_5ViSwpZo5uGdNiBzjLkf9z-Ph2235AEOPPvw)
 
 # 优化 #
 [给 App 提速：Android 性能优化总结](http://android.jobbole.com/81944/)
@@ -156,6 +162,8 @@ rg.clearCheck();//清除选中状态的
 [Binder学习指南](http://weishu.me/2016/01/12/binder-index-for-newer/)
 [Android使用FFMpeg实现推送视频直播流到服务器](http://sixwolf.net/blog/2016/01/30/Android%E4%BD%BF%E7%94%A8FFMpeg%E5%AE%9E%E7%8E%B0%E6%8E%A8%E9%80%81%E8%A7%86%E9%A2%91%E7%9B%B4%E6%92%AD%E6%B5%81%E5%88%B0%E6%9C%8D%E5%8A%A1%E5%99%A8/)
 [这里收集了大家常用的一些Android的模板代码](https://github.com/jiang111/awesome-android-tips)
+[Android实现多次闪退清除数据](http://email.mail.gank.io/c/eJw9kEluwzAMRU9jLwVSoqaFFkrq3MNTEqO21aQGmuOHDGoDwiMfPjVAQ6K-N8bVU9KADow2QAQQFAISl2jAgzKogbw_VwRLO83q1q7fair1PcXOO-NdjP0YRnDYeeN4FnSwbX-1Q70kRIykQz2n-7b9VCZX-sLrd3r9lfmq1nFj6-Zy4yKP4AJGes3I6_As01Bp21hGbhhR0HhGkO4ER0qSZlEnehagaJRAduS8a4Adn-FTELXHcNzP-6TRHheJhq__t1zqZ7KIjsgH4t95PFRfljdBj1EE)
+[Android路由框架设计与实现](http://email.mail.gank.io/c/eJxVj90OwiAMhZ9mXBJaoIMLLmayvcf-VOI2nC7Rx7c18cKkPT0fbdMwJTeO1pLKCQ2Qseg5nUeN4jUFCFQ5s_Z50Zd-u-lc1DXBRN6EuY449J6nI0KcZxwGRO851JoAIDoMaknX47hXtqmw43jm96ssZ73NB9OwlAsXOc3FWPEizTY9Sp4q9G1gOdUsTScoLjp5A0GShrhAP4ytdOm323yx_UPZ6NQjeQByrg6Of7jveizrB5zhQrs)
 
 # 新特性 #
 [Android M新特性Doze and App Standby模式详解](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400185947&idx=1&sn=a591b76d2c9a085791fd4f12a5b31738&scene=2&srcid=11067beUUcVUcBRI1ajZZ2p7&from=timeline&isappinstalled=0&key=b410d3164f5f798e6f3fbdb81070f8443873c0d4632acc14a6513981556fa35169ba650e853f94945b244528cbd58799&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=hgYTL4MW7%2FI9mnat%2BT9S2RRS0IkFfm6yOLSy%2F4bguL4%3D)
@@ -180,7 +188,13 @@ rg.clearCheck();//清除选中状态的
 [Android应用架构](http://blog.zhaiyifan.cn/2016/01/29/android-app-architecture-2015/?from=groupmessage&isappinstalled=0)
 [Android干净架构详解：为你的应用打造一个清爽的架构！](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=402486518&idx=1&sn=e466c3cfcbe02126d92f81cfc347fba4#rd)
 [不要写死！天猫App的动态化配置中心实践](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=402842876&idx=1&sn=e15d596c95bf7d1ed579cfd7e410696a&scene=1&srcid=0315cLs789Ej7XkMleLpkxHE&key=710a5d99946419d97e9c08070121534434102c68991612315319a18a6a15d57b74a1908cf0323fb6069efa758e34889c&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=k0qKNM4TZo426DYTd0YLgC8zV3UKUywv%2Fk7W7VEvbY8%3D)
-
+[Android App的设计架构：MVC,MVP,MVVM与架构经验谈](http://sendcloud_track.batch.manong.io/track/click/eyJ1c2VyX2lkIjogMTg3LCAidGFza19pZCI6ICIiLCAiZW1haWxfaWQiOiAiMTQ1ODY1OTkwNjU3MF8xODdfODk3M18yMjM2LnNjLTEwXzEwXzI0XzE1Ni1pbmJvdW5kMCQ1MTE2NDQ3ODRAcXEuY29tIiwgInNpZ24iOiAiMjZkN2EzMWViNWQxY2YxMGQ0NDdhMGRhMGIyMzY1NzQiLCAidXNlcl9oZWFkZXJzIjoge30sICJsYWJlbCI6ICIxNjgzMyIsICJsaW5rIjogImh0dHAlM0EvL3dlZWtseS5tYW5vbmcuaW8vYm91bmNlJTNGdXJsJTNEaHR0cCUyNTNBJTI1MkYlMjUyRnd3dy50aWFubWF5aW5nLmNvbSUyNTJGdHV0b3JpYWwlMjUyRkFuZHJvaWRNVkMlMjZhaWQlM0Q1NTY5JTI2bmlkJTNEMTEwIiwgImNhdGVnb3J5X2lkIjogNjA1ODl9.html)
+[App架构经验总结](http://toutiao.io/r/cwmt3k)
+[Android MVP架构中的Presentation层应该怎么设计](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=402868193&idx=1&sn=790e12f84dfcea171528e6d3789c69ed&scene=1&srcid=0318edkkVeWbjOhcNH6WDTZQ&key=710a5d99946419d971dd3aa71f3cb0b2e509051adcdbc9164c1787ffeeaf37389747b35a2c1c899c3ec825d8bc190ec1&ascene=0&uin=Mjc3OTU3Nzk1&devicetype=iMac+MacBookPro9%2C2+OSX+OSX+10.10.3+build%2814D136%29&version=11020201&pass_ticket=e3qL7YcbmknxduKwWiyzQxJoeiIW7hRFdqBaO206p868fDQqQ7UIiIsPe%2FiSY23E)
+[我的 Android 开发实战经验总结](http://email.mail.gank.io/c/eJwVjUsOwyAMBU8TlsjGBpwFi6hS7xFANLT5tqly_VLpzWY00suBUyJyqgYD6ICMALEH0AjIzmqx1lvNg5Hhxr5jWMY668e4vnTd1BQguwSOwIONKZLLMRmxvfReCHJxagmI2LMRNYfpPPeOhs7c267r0s86rp_pq9O2NLM3uKA1MUnhQp0h9Q4W0TF74XZ-HP_0B4hZMDo)
+[微信Android客户端后台保活经验分享](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403254393&idx=1&sn=8dc0e3a03031177777b5a5876cb210cc&scene=1&srcid=0402uDoqRaKQffY51mJ0N8G6&key=710a5d99946419d98b567bf76a8e4f11bb50879bb6d2238881b4ab84e10cc0840e943ea3003a0106d73399e336311cec&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=gGDjhIlTQ7vPThoj%2FZ5xrdCNNXWwfjAXhqZnbyhnJmQ%3D)
+[Android MVP 详解（上）](http://androidweekly.us9.list-manage.com/track/click?u=3f24a71686f577759d1824501&id=5a7252222e&e=c10fafc873)
+[Android MVP 详解（下）](http://androidweekly.us9.list-manage.com/track/click?u=3f24a71686f577759d1824501&id=587e2b135a&e=c10fafc873)
 
 # 适配 #
 [安卓分辨率的相关知识](http://leoray.leanote.com/post/android-resolution)
@@ -209,6 +223,8 @@ rg.clearCheck();//清除选中状态的
 [ndroid子线程真的不能更新UI么](http://android.jobbole.com/82431/)
 [程序员怎么获得高工资](http://sendcloud_track.batch.manong.io/track/click/eyJ1c2VyX2lkIjogMTg3LCAidGFza19pZCI6ICIiLCAiZW1haWxfaWQiOiAiMTQ1NzQ1MTk2NjA0NF8xODdfMTM3MTBfMjEwMi5zYy0xMF8xMF8yNF8xODQtaW5ib3VuZDAkNTExNjQ0Nzg0QHFxLmNvbSIsICJzaWduIjogIjIzZTQ0ZDhmYTBlOGQ4YTQyODMzYTRhODA4ZmNkMzEyIiwgInVzZXJfaGVhZGVycyI6IHt9LCAibGFiZWwiOiAiMTY4MzMiLCAibGluayI6ICJodHRwJTNBLy93ZWVrbHkubWFub25nLmlvL2JvdW5jZSUzRnVybCUzRGh0dHAlMjUzQSUyNTJGJTI1MkZ3d3cuc3VuaGFvamllLmNvbSUyNTJGMjAxNiUyNTJGMDElMjUyRjA2JTI1MkYlMjUyNUU3JTI1MjVBOCUyNTI1OEIlMjUyNUU1JTI1MjVCQSUyNTI1OEYlMjUyNUU1JTI1MjU5MSUyNTI1OTglMjUyNUU2JTI1MjU4MCUyNTI1OEUlMjUyNUU0JTI1MjVCOSUyNTI1ODglMjUyNUU4JTI1MjU4RSUyNTI1QjclMjUyNUU1JTI1MjVCRSUyNTI1OTclMjUyNUU5JTI1MjVBQiUyNTI1OTglMjUyNUU1JTI1MjVCNyUyNTI1QTUlMjUyNUU4JTI1MjVCNSUyNTI1ODQlMjUyRiUyNmFpZCUzRDU0NzglMjZuaWQlM0QxMDgiLCAiY2F0ZWdvcnlfaWQiOiA2MDU4OX0=.html)
 [ Andorid-15k+的面试题。](http://blog.csdn.net/jdsjlzx/article/details/40738053)
+[笔试面试知识整理](http://hit-alibaba.github.io/interview/basic/index.html)
+[Android开发知识清单整理](http://t.cn/RqhXz7D)
 
 # 开发工具 #
 [日常使用 Git 的 19 个建议](http://blog.jobbole.com/96088/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -224,8 +240,9 @@ rg.clearCheck();//清除选中状态的
 [使用Android Studio查找文件中含有中文字符串位置](http://waychel.com/shi-yong-android-studiocha-zhao-wen-jian-zhong-han-you-zhong-wen-zi-fu-chuan-wei-zhi/)
 [Android studio调试技巧](https://docs.google.com/presentation/d/1Ilb3kBa8C7cArhu7-4TAsA-dDxFkvv9eRL7DC6H56sE/pub?start=false&loop=false&delayms=3000&slide=id.g11baac1e97_0_155)
 [更优雅的 Android 发布自动版本号方案](http://www.race604.com/android-auto-version/)
-
-
+[这些小工具让你的Android开发更高效](http://toutiao.io/r/m5bvmz)
+[企业级开发：Gitflow Workflow工作流](http://www.jianshu.com/p/104fa8b15d1e)
+[如何在Github打造你的爆款开源项目](https://github.com/gaohailang/blog/issues/9?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 # 学习 #
 [Android程序员 如何入门iOS ——故事从这里开始](http://segmentfault.com/a/1190000004268513)
@@ -244,6 +261,7 @@ rg.clearCheck();//清除选中状态的
 # 安全 #
 [Android应用安全开发之源码安全](http://drops.wooyun.org/mobile/12172)
 [Android应用安全开发之防范无意识的数据泄露](http://drops.wooyun.org/mobile/12469)
+[Android应用安全开发之浅谈加密算法的坑](https://mp.weixin.qq.com/s?__biz=MzIwMTI4Nzk5Ng==&mid=402506628&idx=1&sn=c5ae6457fa1e112a9b983d46da364125&scene=1&srcid=0329cJms84gOkOWU5y45vSNz&key=710a5d99946419d905ed92f3d6b9c4e2eee8ac517149fdcefd791fbbbb0146dbed8b64ad34aa62bbc9e486eb24c3b03b&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=AOchp9l%2F7Ug8gVFlX0%2BK1tAyLOPwStguLTy4jV5RBLc%3D)
 
 # 测试 #
 [测试技巧 – 你所不知道的测试黑科技](http://blog.chengdazhi.com/index.php/58)
@@ -261,7 +279,9 @@ rg.clearCheck();//清除选中状态的
 
 # 管理 #
 [团队分享]如何更好的开发一个Android应用](http://www.jayfeng.com/2016/01/06/%E5%A6%82%E4%BD%95%E6%9B%B4%E5%A5%BD%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AAAndroid%E5%BA%94%E7%94%A8/#more)
-
+[Android技术积累:开发规范](http://keeganlee.me/post/android/20150709)
+[聊聊创业团队的项目管理如何面向开发人员优化](http://toutiao.io/r/15xg4z)
+[Android 编码规范](http://email.mail.gank.io/c/eJwVjUkOwjAQBF8TH62Z8Xg7-ICU8A9jO8SQFYLyfRKp61IqqXPglJQyogYCNMCggdgqJZHIsUTFDqTRbdfdWm4YplhH-YzzW9ZFDCGXXAiLsQaKIt8nV2ImbUuybCM-xBQQ0TM5MYZh39dG3Rq6nzuOQ75qnL_DT6ZlOs16AtE77r332pP4BI1omK27nrft6v45YjAN)
 
 # Reactnative #
 [史上最详细Windows版本搭建安装React Native环境配置](http://www.lcode.org/%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%AF%A6%E7%BB%86windows%E7%89%88%E6%9C%AC%E6%90%AD%E5%BB%BA%E5%AE%89%E8%A3%85react-native%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -276,8 +296,12 @@ rg.clearCheck();//清除选中状态的
 [程序员，你的简历应该这样弄](http://www.devstore.cn/essay/essayInfo/5557.html)
 
 
-#网站 #
+# 网站 #
 [在线 API 文档、技术文档工具 ShowDoc  ](http://doc.star7th.com/index.php/)
+
+# Java #
+[ java提高篇（四）-----抽象类与接口](http://email.mail.gank.io/c/eJwVzrkOgzAQBNCvwaW1u14fFC6QIP9hbHMoHAHc5O_jSFO8qWaS5xiVMmL1BGiAQQOxVUoikWOJih1Io_th6HpuGPawbnIOx1uup1g8B5MhkYXWKoiEYM1Ik55ianWaAordI2LL5MTml1I-jeoaetWM2znL-KRDHrnUHpd8PM-3KtxljVuuSrnUuacKyWlHxorba0TDbN3_zXXJeO4_Pwc2vQ)
+
 
 TODO 新技术
 1.kotlin

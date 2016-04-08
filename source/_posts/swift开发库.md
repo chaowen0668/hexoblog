@@ -75,3 +75,4 @@ App Name                   | Describe                  | Major Language         
 ## 开发网站 ##
 [swiftcafe](http://swiftcafe.io/)
 [ios学习路线](http://ios.skyfox.org/route.html)
+[iOS开发完全自学资源集合](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jianshu.com%2Fp%2Fd70041eb25d7&aid=5772&nid=112)

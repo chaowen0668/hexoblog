@@ -6,6 +6,7 @@ categories: android
 
 ---
 # UI技巧 #
+[ Android 透明状态栏实现方案](http://email.mail.gank.io/c/eJwNjjsOwyAQRE9jSrSLlzUUFG5yjQjwD8XGsU2R42elkeZN9WYKlHPfsyrBADIQOCD0aLVBGpz23hFrO4IZrR07giOWXa-xfnQ51RYg4wATcbSIC2MagAy7NDhgRvRJHQGlyTi1h621b9ePnXlJ0n6uOj9T1XVuspdYf6W-vRGOdyt5n4WmuYnwEbIIjpFI3UFcTPKO5M916XwefyyRNf8)
 [Drawable 着色的后向兼容方案](http://www.race604.com/tint-drawable/ )
 [UI实时预览最佳实践](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.9/ui/ui.md)
 [Tinting drawables](http://andraskindler.com/blog/2015/tinting_drawables/?utm_source=androiddevdigest)
@@ -46,6 +47,7 @@ rg.clearCheck();//清除选中状态的
 
 
 # 代码优化 #
+[Android Bitmap面面观](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0329/4101.html)
 [ 利用 Android Annotations 来玩玩契约编程](http://blog.csdn.net/feelang/article/details/49000203)
 [怎样用 Android Annotations 写出高性能代码](http://blog.csdn.net/feelang/article/details/49095235)
 [安卓App热补丁动态修复技术介绍](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=0&uin=MTYzMjY2MTE1&key=04dce534b3b035ef49d8b47c3f8dc1399d737e94c7a40b1a38561c6fcf48d000a1f40ec4bf530d2534dd865875c0c8c7&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&lang=en&pass_ticket=1zsiC5hQfwATA4R3ndq32UtcvN%2B5kATcavEv4xN2HMY%3D)
@@ -98,6 +100,7 @@ rg.clearCheck();//清除选中状态的
 [安卓下拉刷新开源库对比](https://github.com/desmond1121/Android-Ptr-Comparison/blob/master/README.md)
 [Volley+OkHttp3+Gson（Jackson）开源库的封装过程](http://allenlin.leanote.com/post/volleyokhttpgson)
 [如何更高效地使用 OkHttp](http://brucezz.github.io/articles/2016/02/21/effective-okhttp/)
+[Glide 深入研究 ](http://email.mail.gank.io/c/eJwVjksOgzAMBU9DlpEdOx8WWbRS4QA9AAqQ0qgECkrv3yD5-Y28Gc-ep4nIiOQVoAGGK04biWSIpMaKYB4Ou7trGHJIq1zC9pFpF2-PVrfBtIgGSY0WYOTZOXY6ArU0RZE9IrasnFj9u5RvQ7dGdXXy-frJHCtd3lqgLrZ19Wua49DHUtK2DM8SzhLnehen19XEbB3XV45DTnv-A44rM2k)
 
 # 设计师 #
 [APP界面切图命名和文件整理规范](http://www.shejipai.cn/map-file-naming-and-specification.html)
@@ -173,6 +176,7 @@ rg.clearCheck();//清除选中状态的
 [Android 6.0: 动态权限管理的解决方案](http://www.jianshu.com/p/dbe4d37731e6)
 [Android 6.0 运行时权限处理完全解析](http://blog.csdn.net/lmj623565791/article/details/50709663)
 [Android Support Library 23.2有哪些新东西](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0226/3996.html)
+[AndroidStudyDemo之Android4.x介绍](http://email.mail.gank.io/c/eJwVjjsOwyAQRE9jSsTCLp-Cgib3wEuISfxNHPn6IdJM8zTSmxKR2RgrWtQKrELlFUIAkhrQeRmCRyspKZ2I0oBqyW2Wj7y-ZNvEFB0b9g5xJOMz6Orp7kxFtrVQcbqIJQJAQO3FHKfz3AeTBn3rua5LPlteP9NX8rZ0svc6zpY01VJ4FO9IABb7D-zm4_jvfgyMMFA)
 
 # 架构 #
 [微信为啥这么省流量（技术宅入）](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=400163013&idx=1&sn=911cf71925e2ba50d47955a713134acb&scene=2&srcid=1024VUjDjr5hy3hpqvaZ72D3&from=timeline&isappinstalled=0#rd)
@@ -195,6 +199,7 @@ rg.clearCheck();//清除选中状态的
 [微信Android客户端后台保活经验分享](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403254393&idx=1&sn=8dc0e3a03031177777b5a5876cb210cc&scene=1&srcid=0402uDoqRaKQffY51mJ0N8G6&key=710a5d99946419d98b567bf76a8e4f11bb50879bb6d2238881b4ab84e10cc0840e943ea3003a0106d73399e336311cec&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=gGDjhIlTQ7vPThoj%2FZ5xrdCNNXWwfjAXhqZnbyhnJmQ%3D)
 [Android MVP 详解（上）](http://androidweekly.us9.list-manage.com/track/click?u=3f24a71686f577759d1824501&id=5a7252222e&e=c10fafc873)
 [Android MVP 详解（下）](http://androidweekly.us9.list-manage.com/track/click?u=3f24a71686f577759d1824501&id=587e2b135a&e=c10fafc873)
+[我眼中的Android架构](http://blog.chengdazhi.com/index.php/150)
 
 # 适配 #
 [安卓分辨率的相关知识](http://leoray.leanote.com/post/android-resolution)
@@ -243,6 +248,10 @@ rg.clearCheck();//清除选中状态的
 [这些小工具让你的Android开发更高效](http://toutiao.io/r/m5bvmz)
 [企业级开发：Gitflow Workflow工作流](http://www.jianshu.com/p/104fa8b15d1e)
 [如何在Github打造你的爆款开源项目](https://github.com/gaohailang/blog/issues/9?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[MAT使用入门](http://email.mail.gank.io/c/eJwVjUsOwjAMBU_TLCPbMfkssqAg7uEmgRb6haJenyC92YxGejlySsZYNUQCtMDgwDCj0R4DkTaBvG45XMLVtg3DJMOoHzK_9LCoPhYi521nPLHcMYEHkAy5GCkuixQ1RUQMTF6Nsd_3tTHnhm51x3Ho5yDzp__qtEzVrJXsC7HrsLiO1DueEC2z81yft-3f_QALUjA7)
+[Android自动清理无用资源工具](http://email.mail.gank.io/c/eJwVjssOgyAURL9GlgS4Vx4LFrVN_wMvWGkVqvL_KU0mmTOrOdEjEYBm2SshtUBhBCBK4FY6pTg4ZfmE7u4eehpQ7CFv_BXKh-fKVi-AEpFJs4vWkbFkF-NCDGPCJQFGtnsppUNl2ebX1r4D3Ab17Jm3-uJ0xcJLan2vtbxDSZ3C2TJtf4qp9burUxcapbTATt9bIxqL3eY4ONX9B5W4N3U)
+[高效Android开发者必须知道的4个工具](http://www.devstore.cn/essay/essayInfo/6102.html)
+
 
 # 学习 #
 [Android程序员 如何入门iOS ——故事从这里开始](http://segmentfault.com/a/1190000004268513)
@@ -282,6 +291,7 @@ rg.clearCheck();//清除选中状态的
 [Android技术积累:开发规范](http://keeganlee.me/post/android/20150709)
 [聊聊创业团队的项目管理如何面向开发人员优化](http://toutiao.io/r/15xg4z)
 [Android 编码规范](http://email.mail.gank.io/c/eJwVjUkOwjAQBF8TH62Z8Xg7-ICU8A9jO8SQFYLyfRKp61IqqXPglJQyogYCNMCggdgqJZHIsUTFDqTRbdfdWm4YplhH-YzzW9ZFDCGXXAiLsQaKIt8nV2ImbUuybCM-xBQQ0TM5MYZh39dG3Rq6nzuOQ75qnL_DT6ZlOs16AtE77r332pP4BI1omK27nrft6v45YjAN)
+[客户端API请求规范](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.12xiaoshi.com%2F2016%2F03%2F31%2Ftech%2Fapi-constraint_design%2F&aid=5789&nid=112)
 
 # Reactnative #
 [史上最详细Windows版本搭建安装React Native环境配置](http://www.lcode.org/%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%AF%A6%E7%BB%86windows%E7%89%88%E6%9C%AC%E6%90%AD%E5%BB%BA%E5%AE%89%E8%A3%85react-native%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -301,6 +311,10 @@ rg.clearCheck();//清除选中状态的
 
 # Java #
 [ java提高篇（四）-----抽象类与接口](http://email.mail.gank.io/c/eJwVzrkOgzAQBNCvwaW1u14fFC6QIP9hbHMoHAHc5O_jSFO8qWaS5xiVMmL1BGiAQQOxVUoikWOJih1Io_th6HpuGPawbnIOx1uup1g8B5MhkYXWKoiEYM1Ik55ianWaAordI2LL5MTml1I-jeoaetWM2znL-KRDHrnUHpd8PM-3KtxljVuuSrnUuacKyWlHxorba0TDbN3_zXXJeO4_Pwc2vQ)
+
+# 内存优化 #
+[Android内存优化之OOM](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0920/3478.html)
+[Android 内存泄漏总结](https://yq.aliyun.com/articles/3009)
 
 
 TODO 新技术

@@ -291,6 +291,8 @@ rg.clearCheck();//清除选中状态的
 [Android技术积累:开发规范](http://keeganlee.me/post/android/20150709)
 [聊聊创业团队的项目管理如何面向开发人员优化](http://toutiao.io/r/15xg4z)
 [Android 编码规范](http://email.mail.gank.io/c/eJwVjUkOwjAQBF8TH62Z8Xg7-ICU8A9jO8SQFYLyfRKp61IqqXPglJQyogYCNMCggdgqJZHIsUTFDqTRbdfdWm4YplhH-YzzW9ZFDCGXXAiLsQaKIt8nV2ImbUuybCM-xBQQ0TM5MYZh39dG3Rq6nzuOQ75qnL_DT6ZlOs16AtE77r332pP4BI1omK27nrft6v45YjAN)
+[Android技术积累:开发规范](http://t.cn/RqcUJvl)
+
 [客户端API请求规范](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.12xiaoshi.com%2F2016%2F03%2F31%2Ftech%2Fapi-constraint_design%2F&aid=5789&nid=112)
 
 # Reactnative #

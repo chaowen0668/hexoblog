@@ -251,6 +251,7 @@ rg.clearCheck();//清除选中状态的
 [MAT使用入门](http://email.mail.gank.io/c/eJwVjUsOwjAMBU_TLCPbMfkssqAg7uEmgRb6haJenyC92YxGejlySsZYNUQCtMDgwDCj0R4DkTaBvG45XMLVtg3DJMOoHzK_9LCoPhYi521nPLHcMYEHkAy5GCkuixQ1RUQMTF6Nsd_3tTHnhm51x3Ho5yDzp__qtEzVrJXsC7HrsLiO1DueEC2z81yft-3f_QALUjA7)
 [Android自动清理无用资源工具](http://email.mail.gank.io/c/eJwVjssOgyAURL9GlgS4Vx4LFrVN_wMvWGkVqvL_KU0mmTOrOdEjEYBm2SshtUBhBCBK4FY6pTg4ZfmE7u4eehpQ7CFv_BXKh-fKVi-AEpFJs4vWkbFkF-NCDGPCJQFGtnsppUNl2ebX1r4D3Ab17Jm3-uJ0xcJLan2vtbxDSZ3C2TJtf4qp9burUxcapbTATt9bIxqL3eY4ONX9B5W4N3U)
 [高效Android开发者必须知道的4个工具](http://www.devstore.cn/essay/essayInfo/6102.html)
+[Android Studio 配置](http://liukun.engineer/2016/04/10/Android-Studio-advanced-configuration/)
 
 
 # 学习 #

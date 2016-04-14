@@ -36,6 +36,7 @@ categories: android
 [Android NavigationDrawer 开发实践总结](http://www.jianshu.com/p/c8cbeb7ea43a)
 [Android 界面性能调优资料](https://testerhome.com/topics/4304?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [Android APP 快速 Pad 化实现](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=404548816&idx=1&sn=f042037982ed2e74210c57edf864e31a&scene=0&key=710a5d99946419d952212e00d975092230dca20db96a430d17bf4528f8b81e3323355b8ec4c4336a06461c81e5d2c9c2&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=mkxSG9yBAX1Owyn8FYzTXI641ZdTMCjVwh5JSkA24pE%3D)
+[夜晚的故事(android夜间模式实现)](http://www.jianshu.com/p/60608820bb71)
 
 ## 关于RadioButton setCheck方法的问题 ##
 在做项目过程中，使用radioButton来做菜单切换导航，发现在RadioButton在与其他按钮来回切换会背景不生效,可以使用以下代码
@@ -62,6 +63,7 @@ rg.clearCheck();//清除选中状态的
 [android:process 的坑，你懂吗？](http://sendcloud_track.batch.manong.io/track/click/eyJ1c2VyX2lkIjogMTg3LCAidGFza19pZCI6ICIiLCAiZW1haWxfaWQiOiAiMTQ1ODY1OTkwNjU3MF8xODdfODk3M18yMjM2LnNjLTEwXzEwXzI0XzE1Ni1pbmJvdW5kMCQ1MTE2NDQ3ODRAcXEuY29tIiwgInNpZ24iOiAiMTE1MzMzNTU4ODg0OTViY2FkZGRiMGRmZmFjODAyNWIiLCAidXNlcl9oZWFkZXJzIjoge30sICJsYWJlbCI6ICIxNjgzMyIsICJsaW5rIjogImh0dHAlM0EvL3dlZWtseS5tYW5vbmcuaW8vYm91bmNlJTNGdXJsJTNEaHR0cCUyNTNBJTI1MkYlMjUyRnd3dy5yb2dlcmJsb2cuY24lMjUyRjIwMTYlMjUyRjAzJTI1MkYxNyUyNTJGYW5kcm9pZC1wcm9lc3MlMjUyRiUyNmFpZCUzRDU1NzElMjZuaWQlM0QxMTAiLCAiY2F0ZWdvcnlfaWQiOiA2MDU4OX0=.html)
 [关于Android开发的40条优化建议](http://t.cn/RqPvBEl)
 [APK瘦身记，如何实现高达53%的压缩效果](https://mp.weixin.qq.com/s?__biz=MzIwMTI4Nzk5Ng==&mid=402517579&idx=1&sn=2951ec2b3aef4ce6f6a5c06ad4c49d73&scene=1&srcid=03306GCdiG6G4yhZIaDsHVL9&key=710a5d99946419d9193b805ec5a41fb34a812c3dc4608557894831240095cf354407df239d9d78b9f6ab8b7a69a918be&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=AOchp9l%2F7Ug8gVFlX0%2BK1tAyLOPwStguLTy4jV5RBLc%3D)
+[Android MultiDex实践：如何绕过那些坑？](https://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=405574783&idx=1&sn=6ff49fda8a7229bf6b2692fddcf23e04&scene=1&srcid=0406rIx0Y8UeeSwlQkcWZO3D&key=710a5d99946419d9c98f609fa48d8a98a8b1b1337c7c4ffffdd190537eabc103ed788c6434410e1129cd0428da695802&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=%2FiqZ3iooRz56i55SDTJXia%2F538BgsKzUx5BjjlLzrNU%3D)
 
 # Android studio教程 #
 [配置出“NB”的Android Studio](http://blog.csdn.net/yy1300326388/article/details/46374229) 
@@ -81,10 +83,14 @@ rg.clearCheck();//清除选中状态的
 [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 [一个用于学习RxJava操作符的APP](https://github.com/jiang111/RxJavaApp)
 [从案例学习RxAndroid](http://androidweekly.us9.list-manage.com/track/click?u=3f24a71686f577759d1824501&id=f45c87bab2&e=c10fafc873)
+[RxJava常见的使用场景总结](http://www.jianshu.com/p/6917510b0e4c)
+[我们的安卓客户端是如何使用 RxJava 的](https://realm.io/cn/news/kau-felipe-lima-adopting-rxjava-airbnb-android/)
+[RxJava中的错误处理](http://www.jianshu.com/p/916b72778145)
 
 # Handler #
 [Android Handler消息机制的理解](http://anany.me/2015/04/12/handler/)
 [Android Handler消息机制的理解](http://blog.csdn.net/jianhua0902/article/details/49508945)
+[Android消息循环机制源码分析](http://mouxuejie.com/blog/2016-03-31/message-looper-mechanism/)
 
 
 # Adapter #
@@ -101,6 +107,7 @@ rg.clearCheck();//清除选中状态的
 [Volley+OkHttp3+Gson（Jackson）开源库的封装过程](http://allenlin.leanote.com/post/volleyokhttpgson)
 [如何更高效地使用 OkHttp](http://brucezz.github.io/articles/2016/02/21/effective-okhttp/)
 [Glide 深入研究 ](http://email.mail.gank.io/c/eJwVjksOgzAMBU9DlpEdOx8WWbRS4QA9AAqQ0qgECkrv3yD5-Y28Gc-ep4nIiOQVoAGGK04biWSIpMaKYB4Ou7trGHJIq1zC9pFpF2-PVrfBtIgGSY0WYOTZOXY6ArU0RZE9IrasnFj9u5RvQ7dGdXXy-frJHCtd3lqgLrZ19Wua49DHUtK2DM8SzhLnehen19XEbB3XV45DTnv-A44rM2k)
+[Glide 系列使用教程](https://mail.qq.com/cgi-bin/frame_html?sid=jv49Mye5pdrXChRD&r=814efd55a7c3af31c3e5490bfc25de07)
 
 # 设计师 #
 [APP界面切图命名和文件整理规范](http://www.shejipai.cn/map-file-naming-and-specification.html)
@@ -167,6 +174,7 @@ rg.clearCheck();//清除选中状态的
 [这里收集了大家常用的一些Android的模板代码](https://github.com/jiang111/awesome-android-tips)
 [Android实现多次闪退清除数据](http://email.mail.gank.io/c/eJw9kEluwzAMRU9jLwVSoqaFFkrq3MNTEqO21aQGmuOHDGoDwiMfPjVAQ6K-N8bVU9KADow2QAQQFAISl2jAgzKogbw_VwRLO83q1q7fair1PcXOO-NdjP0YRnDYeeN4FnSwbX-1Q70kRIykQz2n-7b9VCZX-sLrd3r9lfmq1nFj6-Zy4yKP4AJGes3I6_As01Bp21hGbhhR0HhGkO4ER0qSZlEnehagaJRAduS8a4Adn-FTELXHcNzP-6TRHheJhq__t1zqZ7KIjsgH4t95PFRfljdBj1EE)
 [Android路由框架设计与实现](http://email.mail.gank.io/c/eJxVj90OwiAMhZ9mXBJaoIMLLmayvcf-VOI2nC7Rx7c18cKkPT0fbdMwJTeO1pLKCQ2Qseg5nUeN4jUFCFQ5s_Z50Zd-u-lc1DXBRN6EuY449J6nI0KcZxwGRO851JoAIDoMaknX47hXtqmw43jm96ssZ73NB9OwlAsXOc3FWPEizTY9Sp4q9G1gOdUsTScoLjp5A0GShrhAP4ytdOm323yx_UPZ6NQjeQByrg6Of7jveizrB5zhQrs)
+[Android 插件化原理解析——插件加载机制](http://weishu.me/2016/04/05/understand-plugin-framework-classloader/)
 
 # 新特性 #
 [Android M新特性Doze and App Standby模式详解](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400185947&idx=1&sn=a591b76d2c9a085791fd4f12a5b31738&scene=2&srcid=11067beUUcVUcBRI1ajZZ2p7&from=timeline&isappinstalled=0&key=b410d3164f5f798e6f3fbdb81070f8443873c0d4632acc14a6513981556fa35169ba650e853f94945b244528cbd58799&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=hgYTL4MW7%2FI9mnat%2BT9S2RRS0IkFfm6yOLSy%2F4bguL4%3D)
@@ -177,6 +185,7 @@ rg.clearCheck();//清除选中状态的
 [Android 6.0 运行时权限处理完全解析](http://blog.csdn.net/lmj623565791/article/details/50709663)
 [Android Support Library 23.2有哪些新东西](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0226/3996.html)
 [AndroidStudyDemo之Android4.x介绍](http://email.mail.gank.io/c/eJwVjjsOwyAQRE9jSsTCLp-Cgib3wEuISfxNHPn6IdJM8zTSmxKR2RgrWtQKrELlFUIAkhrQeRmCRyspKZ2I0oBqyW2Wj7y-ZNvEFB0b9g5xJOMz6Orp7kxFtrVQcbqIJQJAQO3FHKfz3AeTBn3rua5LPlteP9NX8rZ0svc6zpY01VJ4FO9IABb7D-zm4_jvfgyMMFA)
+[MVVM-DBinding](https://github.com/tianzhijiexian/DBinding)
 
 # 架构 #
 [微信为啥这么省流量（技术宅入）](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=400163013&idx=1&sn=911cf71925e2ba50d47955a713134acb&scene=2&srcid=1024VUjDjr5hy3hpqvaZ72D3&from=timeline&isappinstalled=0#rd)
@@ -200,6 +209,8 @@ rg.clearCheck();//清除选中状态的
 [Android MVP 详解（上）](http://androidweekly.us9.list-manage.com/track/click?u=3f24a71686f577759d1824501&id=5a7252222e&e=c10fafc873)
 [Android MVP 详解（下）](http://androidweekly.us9.list-manage.com/track/click?u=3f24a71686f577759d1824501&id=587e2b135a&e=c10fafc873)
 [我眼中的Android架构](http://blog.chengdazhi.com/index.php/150)
+[Android官方MVP架构示例项目解析](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f&scene=0#wechat_redirect)
+[Android官方MVP架构示例项目解析](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f#rd)
 
 # 适配 #
 [安卓分辨率的相关知识](http://leoray.leanote.com/post/android-resolution)
@@ -232,6 +243,7 @@ rg.clearCheck();//清除选中状态的
 [Android开发知识清单整理](http://t.cn/RqhXz7D)
 
 # 开发工具 #
+[IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 [日常使用 Git 的 19 个建议](http://blog.jobbole.com/96088/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [Android Studio你不知道的调试技巧](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/)
 [Android单元测试研究与实践](http://tech.meituan.com/Android_unit_test.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -262,6 +274,7 @@ rg.clearCheck();//清除选中状态的
 [定期翻译Android官方博客](https://github.com/smallSohoSolo/android-developer-blog-cn)
 [android学习资料](https://github.com/Freelander/Android_Data)
 [10个很棒的学习Android 开发的网站](http://mp.weixin.qq.com/s?__biz=MzA4MTg4MjkzMw==&mid=214243534&idx=1&sn=7e8afe532c7809dc1b27456516d42239&scene=4#wechat_redirect)
+[Android知识架构](http://lib.csdn.net/base/15/structure)
 
 # 数据库 #
 [SQLite 大数据量 新增 / 修改 提升效率的办法](http://my.oschina.net/atearsan/blog/187226?fromerr=qCmwUhvO)
@@ -279,6 +292,7 @@ rg.clearCheck();//清除选中状态的
 [世界级的Android测试开发流程（一）](http://blog.zhaiyifan.cn/2016/02/23/world-class-testing-development-pipeline-for-android-part-1/)
 [世界级的Android测试开发流程（二）](http://blog.zhaiyifan.cn/2016/02/23/world-class-testing-development-pipeline-for-android-part-2/)
 [Roboletric探索之路，从抗拒到依赖](http://iceanson.github.io/Robolectric-%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF)
+[Android持续集成以及测试覆盖率可视化](http://sixwolf.net/blog/2016/04/12/Android%E4%BD%BF%E7%94%A8Travis-CI%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E4%BB%A5%E5%8F%8A%E6%B5%8B%E8%AF%95%E8%A6%86%E7%9B%96%E7%8E%87%E5%8F%AF%E8%A7%86%E5%8C%96/)
 
 # sdk #
 [sdk](https://www.sdk.cn/)
@@ -295,6 +309,7 @@ rg.clearCheck();//清除选中状态的
 [Android技术积累:开发规范](http://t.cn/RqcUJvl)
 
 [客户端API请求规范](http://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.12xiaoshi.com%2F2016%2F03%2F31%2Ftech%2Fapi-constraint_design%2F&aid=5789&nid=112)
+[提升代码的可读性系列(一)--基础篇](http://aotu.io/notes/2016/03/31/readable/)
 
 # Reactnative #
 [史上最详细Windows版本搭建安装React Native环境配置](http://www.lcode.org/%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%AF%A6%E7%BB%86windows%E7%89%88%E6%9C%AC%E6%90%AD%E5%BB%BA%E5%AE%89%E8%A3%85react-native%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -314,11 +329,15 @@ rg.clearCheck();//清除选中状态的
 
 # Java #
 [ java提高篇（四）-----抽象类与接口](http://email.mail.gank.io/c/eJwVzrkOgzAQBNCvwaW1u14fFC6QIP9hbHMoHAHc5O_jSFO8qWaS5xiVMmL1BGiAQQOxVUoikWOJih1Io_th6HpuGPawbnIOx1uup1g8B5MhkYXWKoiEYM1Ik55ianWaAordI2LL5MTml1I-jeoaetWM2znL-KRDHrnUHpd8PM-3KtxljVuuSrnUuacKyWlHxorba0TDbN3_zXXJeO4_Pwc2vQ)
+[线程、多线程与线程池总结](http://www.jianshu.com/p/b8197dd2934c)
 
 # 内存优化 #
 [Android内存优化之OOM](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0920/3478.html)
 [Android 内存泄漏总结](https://yq.aliyun.com/articles/3009)
 
+
+# 产品 #
+[产品经理信息收集渠道大盘点](http://www.devstore.cn/essay/essayInfo/6155.html)
 
 TODO 新技术
 1.kotlin

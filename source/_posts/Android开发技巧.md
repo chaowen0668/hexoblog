@@ -6,6 +6,7 @@ categories: android
 
 ---
 # UI技巧 #
+[Android键盘面板冲突 布局闪动处理方案](https://github.com/Jacksgong/JKeyboardPanelSwitch)
 [ Android 透明状态栏实现方案](http://email.mail.gank.io/c/eJwNjjsOwyAQRE9jSrSLlzUUFG5yjQjwD8XGsU2R42elkeZN9WYKlHPfsyrBADIQOCD0aLVBGpz23hFrO4IZrR07giOWXa-xfnQ51RYg4wATcbSIC2MagAy7NDhgRvRJHQGlyTi1h621b9ePnXlJ0n6uOj9T1XVuspdYf6W-vRGOdyt5n4WmuYnwEbIIjpFI3UFcTPKO5M916XwefyyRNf8)
 [Drawable 着色的后向兼容方案](http://www.race604.com/tint-drawable/ )
 [UI实时预览最佳实践](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.9/ui/ui.md)
@@ -211,6 +212,7 @@ rg.clearCheck();//清除选中状态的
 [我眼中的Android架构](http://blog.chengdazhi.com/index.php/150)
 [Android官方MVP架构示例项目解析](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f&scene=0#wechat_redirect)
 [Android官方MVP架构示例项目解析](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f#rd)
+[选择恐惧症的福音！教你认清MVC，MVP和MVVM](http://zjutkz.net/2016/04/13/%E9%80%89%E6%8B%A9%E6%81%90%E6%83%A7%E7%97%87%E7%9A%84%E7%A6%8F%E9%9F%B3%EF%BC%81%E6%95%99%E4%BD%A0%E8%AE%A4%E6%B8%85MVC%EF%BC%8CMVP%E5%92%8CMVVM/#more)
 
 # 适配 #
 [安卓分辨率的相关知识](http://leoray.leanote.com/post/android-resolution)
@@ -241,6 +243,7 @@ rg.clearCheck();//清除选中状态的
 [ Andorid-15k+的面试题。](http://blog.csdn.net/jdsjlzx/article/details/40738053)
 [笔试面试知识整理](http://hit-alibaba.github.io/interview/basic/index.html)
 [Android开发知识清单整理](http://t.cn/RqhXz7D)
+[2016Android某公司面试题](http://yuweiguocn.github.io/2016/04/13/interview-2016-big-company/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 # 开发工具 #
 [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
@@ -319,6 +322,7 @@ rg.clearCheck();//清除选中状态的
 [Kotlin for android developers](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md)
 [Building a Kotlin project 1/2](http://cirorizzo.net/2016/03/04/building-a-kotlin-project/?utm_source=Android+Weekly&utm_campaign=36def426b1-Android_Weekly_195&utm_medium=email&utm_term=0_4eb677ad19-36def426b1-337851685)
 [Building a Kotlin project 2/2](http://www.cirorizzo.net/2016/03/04/building-a-kotlin-project-2/?utm_source=Android+Weekly&utm_campaign=36def426b1-Android_Weekly_195&utm_medium=email&utm_term=0_4eb677ad19-36def426b1-337851685)
+[实战Kotlin@Andorid（二）：界面构建与扩展方法](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403568637&idx=1&sn=e6edfa6ef2029e0f6c1892ed7d2611d2#rd)
 
 # 简历 #
 [程序员，你的简历应该这样弄](http://www.devstore.cn/essay/essayInfo/5557.html)
@@ -330,6 +334,7 @@ rg.clearCheck();//清除选中状态的
 # Java #
 [ java提高篇（四）-----抽象类与接口](http://email.mail.gank.io/c/eJwVzrkOgzAQBNCvwaW1u14fFC6QIP9hbHMoHAHc5O_jSFO8qWaS5xiVMmL1BGiAQQOxVUoikWOJih1Io_th6HpuGPawbnIOx1uup1g8B5MhkYXWKoiEYM1Ik55ianWaAordI2LL5MTml1I-jeoaetWM2znL-KRDHrnUHpd8PM-3KtxljVuuSrnUuacKyWlHxorba0TDbN3_zXXJeO4_Pwc2vQ)
 [线程、多线程与线程池总结](http://www.jianshu.com/p/b8197dd2934c)
+[反射、注解与依赖注入总结](http://www.jianshu.com/p/24820bf3df5c)
 
 # 内存优化 #
 [Android内存优化之OOM](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0920/3478.html)

@@ -4,6 +4,22 @@ tags: Rxjava
 categories: java
 
 ---
+# RxJava与众不同之处 #
+从纯Java的观点看，RxJava Observable类源自于经典的Gang Of Four的观察者模式。
+
+它添加了三个缺少的功能：
+
+- 生产者在没有更多数据可用时能够发出信号通知：onCompleted()事件。
+- 生产者在发生错误时能够发出信号通知：onError()事件。
+- RxJava Observables 能够组合而不是嵌套，从而避免开发者陷入回调地狱。
+
+# 四种角色 #
+- Observable
+- Observer
+- Subscriber
+- Subjects
+Observables和Subjects是两个"生产"实体,Observers和Subscribers是两个"消费"实体
+
 # 概念 #
 RxJava 有四个基本概念：`Observable` (可观察者，即被观察者)、 `Observer` (观察者)、 `subscribe` (订阅)、事件。`Observable` 和 `Observer` 通过 `subscribe() `方法实现订阅关系，从而 Observable 可以在需要的时候发出事件来通知 `Observer`
 
@@ -280,5 +296,88 @@ Observable.just("Hello, world!")
     .map(s -> s.hashCode())  
     .subscribe(i -> System.out.println(Integer.toString(i)));
 ```
+
+
+## zip数据合并操作 ##
+
+
+
+# 第一个例子 #
+RxAndroid的git地址： https://github.com/ReactiveX/RxAndroid
+
+1.添加依赖
+  ```
+   compile 'io.reactivex:rxandroid:1.2.0'
+   compile 'io.reactivex:rxjava:1.1.4'
+   ```
+2.在Android中使用Lambda表达式
+   https://github.com/evant/gradle-retrolambda
+   
+
+
+1. 在项目的build.gradle文件中，加入
+
+   ```
+classpath 'me.tatarka:gradle-retrolambda:3.2.5'
+```
+
+2. 在app的module下加入以下代码
+```
+apply plugin: 'me.tatarka.retrolambda'
+
+compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+```
+完整代码
+```
+apply plugin: 'com.android.application'
+apply plugin: 'me.tatarka.retrolambda'
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.example.chaowen.hellorxjava"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:23.1.1'
+    compile 'io.reactivex:rxandroid:1.2.0'
+    compile 'io.reactivex:rxjava:1.1.4'
+    compile 'com.jakewharton:butterknife:6.0.0'
+    compile 'com.android.support:support-annotations:23.1.1'
+}
+```
+
+
+
+
+
+
+
+
+
 
 https://github.com/lzyzsd/Awesome-RxJava

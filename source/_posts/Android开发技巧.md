@@ -209,6 +209,7 @@ rg.clearCheck();//清除选中状态的
 [Android路由框架设计与实现](http://email.mail.gank.io/c/eJxVj90OwiAMhZ9mXBJaoIMLLmayvcf-VOI2nC7Rx7c18cKkPT0fbdMwJTeO1pLKCQ2Qseg5nUeN4jUFCFQ5s_Z50Zd-u-lc1DXBRN6EuY449J6nI0KcZxwGRO851JoAIDoMaknX47hXtqmw43jm96ssZ73NB9OwlAsXOc3FWPEizTY9Sp4q9G1gOdUsTScoLjp5A0GShrhAP4ytdOm323yx_UPZ6NQjeQByrg6Of7jveizrB5zhQrs)
 [Android 插件化原理解析——插件加载机制](http://weishu.me/2016/04/05/understand-plugin-framework-classloader/)
 [Android M 新的运行时权限开发者需要知道的一切](http://jijiaxin89.com/2015/08/30/Android-s-Runtime-Permission/)
+[Android 插件化开发专题](http://diycode.cc/news/301)
 
 # 新特性 #
 [8个类搞定插件化(上)](http://kymjs.com/code/2016/05/15/01)
@@ -292,6 +293,7 @@ rg.clearCheck();//清除选中状态的
 [2016Android某公司面试题](http://yuweiguocn.github.io/2016/04/13/interview-2016-big-company/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 # 开发工具 #
+[Android Studio 一些快捷键的整理，提高效率怎么能少得了这篇](http://saulmm.github.io/the-powerful-android-studio)
 [使用原理视角看 Git](https://blog.coding.net/blog/principle-of-Git)
 [自己编写Android Studio插件 别停留在用的程度了](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820316&idx=1&sn=49d4e6b68b114a2e8a8e88f3d1b0cd9e)
 [微信测试工程师手把手教你做弱网络模拟测试](http://mp.weixin.qq.com/s?__biz=MzAxMzYyNDkyNA==&mid=2651332070&idx=1&sn=2fae22d0089b0af8ace73280f05492b1&scene=1&srcid=0530uZEAvbQFuj1HUrTYUtVd#wechat_redirect)
@@ -378,6 +380,7 @@ rg.clearCheck();//清除选中状态的
 # Reactnative #
 [史上最详细Windows版本搭建安装React Native环境配置](http://www.lcode.org/%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%AF%A6%E7%BB%86windows%E7%89%88%E6%9C%AC%E6%90%AD%E5%BB%BA%E5%AE%89%E8%A3%85react-native%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [React-Native入门指南](https://github.com/vczero/react-native-lesson)
+[React Native 开发之 IDE 选型和配置](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112392&idx=1&sn=135e29ddde3050d469be98db815c267e&scene=23&srcid=0618cOTwQLFp5GtYc6Nh3NFY#rd)
 
 # kotlin #
 [kotlin学习资源整理](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=401833091&idx=1&sn=9685218eeac4abfbafdfacd81950bfa1)
@@ -423,6 +426,10 @@ rg.clearCheck();//清除选中状态的
 
 # Agera #
 [Agera Wiki 中文版](https://github.com/captain-miao/AndroidAgeraTutorial/wiki)
+
+
+# Dagger2 #
+[Dagger 2: Step To Step](http://www.androidchina.net/4624.html)
 
 TODO 新技术
 1.kotlin

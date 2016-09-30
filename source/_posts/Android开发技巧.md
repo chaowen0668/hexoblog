@@ -6,6 +6,7 @@ categories: android
 
 ---
 # UI技巧 #
+[ Material Design系列，自定义Behavior实现Android知乎首页](http://blog.csdn.net/yanzhenjie1003/article/details/51946749)
 [Android 欢迎页](http://www.jianshu.com/p/b08286b9e3f6)
 [精通 Android 中的 tools 命名空间](https://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=2653418742&idx=1&sn=1efe7fa5c95cbf292b43ebba365813fc&scene=1&srcid=0518umesaM4ZrcRAYcNpFNZ7&key=f5c31ae61525f82e66d0951fb781d5c0541e1aff25b7c19d52529090dc9aadd5135c16492d32df57a81580273d5ce6fc&ascene=0&uin=MTY5MDI4NDA4Mg%3D%3D&devicetype=iMac+MacBookPro11%2C3+OSX+OSX+10.11.4+build%2815E65%29&version=11020201&pass_ticket=cxx8EkEgugUPRKu5OFT3LHt%2B24fap8mmX1w%2FJYuNro%2BB1zV9bzsrmnh%2F0sNY7HC1)
 [Android开发：最详细的 Toolbar 开发实践总结](https://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651433411&idx=1&sn=09751bd1733595d29f96d11b14358984&scene=1&srcid=0528Z8EY9FkU7lA9r0oN9jms&key=f5c31ae61525f82e6b61d9dc1f3f267a1103de45e1900931a85757435d358c4a19c1f40823dbf2196b809489a37885a8&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=JtFbOWzVz0QaHe5dN1epxdryv2HEDINGpaqXxeWcwGI%3D)
